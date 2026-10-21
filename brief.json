@@ -1,32 +1,37 @@
 {
-  "data": "2026-10-20",
-  "apertura": "Brief geopolitico di martedì venti ottobre duemilaventisei. Oggi ci sono cinque sviluppi rilevanti.",
+  "data": "2026-10-21",
+  "apertura": "Brief geopolitico di mercoledì ventuno ottobre duemilaventisei. Oggi ci sono sei sviluppi rilevanti.",
   "notizie": [
     {
       "etichetta": "Prima notizia.",
-      "titolo": "Russia colpisce la rete elettrica ucraina.",
-      "testo": "Nella notte tra domenica e lunedì la Russia ha lanciato sedici missili balistici e oltre duecento droni. Il bersaglio principale è stata Kiev con la sua regione. Il presidente ucraino Volodymyr Zelensky parla di ventotto impianti energetici colpiti in undici regioni. Più di cinquecentomila persone sono rimaste senza elettricità. A Kiev è morta una donna di ventuno anni. Zelensky dice che i partner non hanno dato alcun preavviso. Il segretario di Stato americano Marco Rubio ha ribadito lunedì che Washington non ha interrotto la condivisione di informazioni."
+      "titolo": "Drone colpisce un mercato nella regione di Abyei.",
+      "testo": "Lunedì diciannove ottobre un drone ha colpito un mercato a nord della città di Abyei. Si trova nella regione contesa tra Sudan e Sudan del Sud. Secondo l'amministrazione locale i morti sono almeno centocinquantatré. Un deposito di carburante vicino ha preso fuoco. Autorità locali e il ministero degli Esteri sudsudanese accusano l'esercito sudanese. Khartum non ha commentato e l'attribuzione non è verificata in modo indipendente."
     },
     {
       "etichetta": "Seconda notizia.",
-      "titolo": "Kiev lancia oltre mille droni su San Pietroburgo.",
-      "testo": "Domenica diciotto ottobre l'Ucraina ha lanciato oltre mille droni contro la Russia. Secondo Mosca, ne sono stati abbattuti mille e quindici in quindici regioni. A San Pietroburgo sono andati a fuoco un terminal petrolifero e un deposito di carburante. Il governatore parla di un morto e cinque feriti. Sono stati colpiti anche un centro dati e un hub logistico. Nella regione di Leningrado circa ventimila persone sono rimaste senza corrente."
+      "titolo": "Colloqui a Oslo mentre la Russia continua a colpire l'Ucraina.",
+      "testo": "Martedì venti ottobre il presidente ucraino Volodymyr Zelensky ha incontrato a Oslo l'inviato americano Steve Witkoff. Era presente anche il primo ministro norvegese. Zelensky ha detto che l'Ucraina perde uomini e tempo. Secondo France 24 Witkoff andrà in Russia mercoledì. Nello stesso giorno attacchi russi hanno ucciso almeno sei persone in Ucraina. Più di trentaduemila famiglie sono rimaste senza elettricità nella regione di Odessa."
     },
     {
       "etichetta": "Terza notizia.",
-      "titolo": "Trump rinvia le sanzioni alla Russia.",
-      "testo": "Il presidente americano Donald Trump ha sospeso numerose sanzioni contro la Russia pochi giorni prima della loro entrata in vigore. Domenica ha difeso la scelta, dicendo di voler tenere Mosca al tavolo dei negoziati. Ha anche accusato Zelensky di non voler chiudere la guerra. Zelensky risponde che la sospensione danneggia l'Ucraina e rafforza il presidente russo Vladimir Putin. Il nove ottobre Trump aveva annunciato forniture russe di oltre trecentomila tonnellate di diesel. I partner europei criticano la decisione."
+      "titolo": "La NATO rafforza la sorveglianza sul Mar Nero.",
+      "testo": "Martedì venti ottobre la NATO, l'alleanza militare occidentale, ha annunciato l'invio di aerei da pattugliamento, radar e droni nel Mar Nero. La decisione segue una serie di attacchi con droni contro navi commerciali vicino a Romania e Bulgaria. Decine di marinai risultano morti o dispersi. La NATO non ha indicato un responsabile. L'Unione europea parla di sei sospetti attacchi russi in dieci giorni. Mosca nega ogni coinvolgimento."
     },
     {
       "etichetta": "Quarta notizia.",
-      "titolo": "Missili degli Houthi su un campo militare yemenita.",
-      "testo": "Lunedì diciannove ottobre i ribelli Houthi hanno lanciato missili balistici contro un campo militare nella provincia yemenita di Shabwa. Le autorità locali parlano di almeno cinquantatré morti. I feriti sono circa duecento, in gran parte giovani reclute. Il bilancio potrebbe salire. Gli Houthi sostengono che il campo fosse gestito da ufficiali sauditi, ma non hanno presentato prove."
+      "titolo": "Oltre duecentocinquantamila sfollati nello Yemen.",
+      "testo": "L'agenzia Onu per i rifugiati segnala più di duecentocinquantamila sfollati nello Yemen dall'inizio dei nuovi combattimenti a luglio. La città di Taiz è assediata dai ribelli Houthi dai primi di ottobre. L'accesso degli aiuti è quasi bloccato. L'Unicef avverte che i sistemi idrici di Taiz, usati da circa tre milioni di persone, sono a rischio. Un missile Houthi ha colpito un campo militare nella provincia di Shabwa. Le autorità locali parlano di almeno cinquantotto morti."
     },
     {
       "etichetta": "Quinta notizia.",
-      "titolo": "Il ministro russo Lavrov a Teheran.",
-      "testo": "Lunedì il ministro degli Esteri russo Sergej Lavrov ha incontrato a Teheran il collega iraniano Abbas Araghchi e il presidente Masoud Pezeshkian. Lavrov ha condannato gli attacchi americani e israeliani contro l'Iran. Ha ricordato il trattato di partenariato ventennale, in vigore dal due ottobre. I tecnici russi torneranno gradualmente alla centrale nucleare di Bushehr. Araghchi chiede il ritorno al memorandum con Washington. Questa notizia è confermata da una sola fonte primaria."
+      "titolo": "Il Programma alimentare mondiale taglia gli aiuti a Gaza.",
+      "testo": "Lunedì diciannove ottobre il Programma alimentare mondiale delle Nazioni Unite ha annunciato la fine dell'assistenza a circa cinquecentomila persone a Gaza. Il motivo è la mancanza di fondi. I beneficiari mensili scendono da un milione e seicentomila a un milione e centomila. L'agenzia chiede quattrocentocinquanta milioni di dollari fino a marzo. Intanto martedì attacchi israeliani hanno ucciso almeno quattro palestinesi, nonostante il cessate il fuoco in vigore da ottobre duemilaventicinque."
+    },
+    {
+      "etichetta": "Sesta notizia.",
+      "titolo": "Stati Uniti e Iran: pressione economica e accuse reciproche.",
+      "testo": "Un comandante americano afferma che il blocco navale dei porti iraniani del sud ha colpito duramente il governo di Teheran. Washington dice di aver bloccato almeno venticinque miliardi di dollari di esportazioni di petrolio. L'Iran respinge l'idea di un collasso imminente. Ammette però che sanzioni e guerra pesano sull'economia. La Banca Mondiale prevede una contrazione del sette virgola sette per cento. Questa notizia è confermata da una sola fonte primaria."
     }
   ],
-  "chiusura": "Questo era il brief di oggi. Buona giornata."
+  "chiusura": "Questo era il brief di oggi. Grazie per l'ascolto."
 }
