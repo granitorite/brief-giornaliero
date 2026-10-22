@@ -1,37 +1,37 @@
 {
-  "data": "2026-10-21",
-  "apertura": "Brief geopolitico di mercoledì ventuno ottobre duemilaventisei. Oggi ci sono sei sviluppi rilevanti.",
+  "data": "2026-10-22",
+  "apertura": "Buongiorno. Oggi è giovedì ventidue ottobre duemilaventisei. Ecco le sei notizie più rilevanti su conflitti e geopolitica.",
   "notizie": [
     {
       "etichetta": "Prima notizia.",
-      "titolo": "Drone colpisce un mercato nella regione di Abyei.",
-      "testo": "Lunedì diciannove ottobre un drone ha colpito un mercato a nord della città di Abyei. Si trova nella regione contesa tra Sudan e Sudan del Sud. Secondo l'amministrazione locale i morti sono almeno centocinquantatré. Un deposito di carburante vicino ha preso fuoco. Autorità locali e il ministero degli Esteri sudsudanese accusano l'esercito sudanese. Khartum non ha commentato e l'attribuzione non è verificata in modo indipendente."
+      "titolo": "Ucraina, riprendono i contatti dopo l'incontro Witkoff-Putin.",
+      "testo": "Mercoledì ventuno ottobre l'inviato americano Steve Witkoff ha incontrato il presidente russo Vladimir Putin a San Pietroburgo. La Russia ha liberato il cittadino americano Stephen Hubbard, detenuto da oltre quattro anni. Il Cremlino si dice pronto a riprendere i colloqui a tre con Ucraina e Stati Uniti. Mosca indica una data tra l'inizio e la metà di novembre. Il presidente ucraino Volodymyr Zelensky si è detto disponibile a congelare la linea del fronte."
     },
     {
       "etichetta": "Seconda notizia.",
-      "titolo": "Colloqui a Oslo mentre la Russia continua a colpire l'Ucraina.",
-      "testo": "Martedì venti ottobre il presidente ucraino Volodymyr Zelensky ha incontrato a Oslo l'inviato americano Steve Witkoff. Era presente anche il primo ministro norvegese. Zelensky ha detto che l'Ucraina perde uomini e tempo. Secondo France 24 Witkoff andrà in Russia mercoledì. Nello stesso giorno attacchi russi hanno ucciso almeno sei persone in Ucraina. Più di trentaduemila famiglie sono rimaste senza elettricità nella regione di Odessa."
+      "titolo": "Iran, diplomazia sullo stretto di Hormuz.",
+      "testo": "Il Qatar e la Francia hanno chiesto di riaprire lo stretto di Hormuz alla libera navigazione. Hanno chiesto anche di applicare il cessate il fuoco a Gaza. L'Iran afferma di voler mantenere il proprio uranio. Teheran dice di preferire la diplomazia, ma di essere pronta a difendersi. Il presidente americano Donald Trump nega che ci siano trattative. Questa notizia è confermata da una sola fonte primaria."
     },
     {
       "etichetta": "Terza notizia.",
-      "titolo": "La NATO rafforza la sorveglianza sul Mar Nero.",
-      "testo": "Martedì venti ottobre la NATO, l'alleanza militare occidentale, ha annunciato l'invio di aerei da pattugliamento, radar e droni nel Mar Nero. La decisione segue una serie di attacchi con droni contro navi commerciali vicino a Romania e Bulgaria. Decine di marinai risultano morti o dispersi. La NATO non ha indicato un responsabile. L'Unione europea parla di sei sospetti attacchi russi in dieci giorni. Mosca nega ogni coinvolgimento."
+      "titolo": "Sudan, attacco con drone nella regione di Abyei.",
+      "testo": "Un attacco con drone ha colpito un mercato nella regione contesa di Abyei, al confine tra Sudan e Sudan del Sud. Le autorità sudsudanesi parlano di almeno centocinquantatré morti. Accusano l'esercito sudanese. Le Nazioni Unite parlano di decine di civili uccisi. Il segretario generale António Guterres ha condannato l'attacco. Ha chiesto ai due governi di evitare nuove violenze."
     },
     {
       "etichetta": "Quarta notizia.",
-      "titolo": "Oltre duecentocinquantamila sfollati nello Yemen.",
-      "testo": "L'agenzia Onu per i rifugiati segnala più di duecentocinquantamila sfollati nello Yemen dall'inizio dei nuovi combattimenti a luglio. La città di Taiz è assediata dai ribelli Houthi dai primi di ottobre. L'accesso degli aiuti è quasi bloccato. L'Unicef avverte che i sistemi idrici di Taiz, usati da circa tre milioni di persone, sono a rischio. Un missile Houthi ha colpito un campo militare nella provincia di Shabwa. Le autorità locali parlano di almeno cinquantotto morti."
+      "titolo": "Yemen e Arabia Saudita, escalation degli attacchi Houthi.",
+      "testo": "Il Regno Unito ha annunciato l'invio di caccia Typhoon per difendere l'Arabia Saudita dagli attacchi degli Houthi. Il ministero della Difesa britannico parla di un ruolo difensivo. Secondo l'agenzia dell'ONU per i rifugiati, oltre duecentocinquantamila persone sono sfollate in Yemen. Giovedì un attacco a un aeroporto saudita ha ucciso una persona e ne ha ferite otto. Non è chiaro chi sia il responsabile."
     },
     {
       "etichetta": "Quinta notizia.",
-      "titolo": "Il Programma alimentare mondiale taglia gli aiuti a Gaza.",
-      "testo": "Lunedì diciannove ottobre il Programma alimentare mondiale delle Nazioni Unite ha annunciato la fine dell'assistenza a circa cinquecentomila persone a Gaza. Il motivo è la mancanza di fondi. I beneficiari mensili scendono da un milione e seicentomila a un milione e centomila. L'agenzia chiede quattrocentocinquanta milioni di dollari fino a marzo. Intanto martedì attacchi israeliani hanno ucciso almeno quattro palestinesi, nonostante il cessate il fuoco in vigore da ottobre duemilaventicinque."
+      "titolo": "Mar Nero, la NATO rafforza la sorveglianza.",
+      "testo": "Martedì venti ottobre la NATO ha annunciato l'invio di altri aerei di pattugliamento nel Mar Nero. La decisione segue una serie di attacchi con droni contro navi mercantili vicino a Bulgaria e Romania. Almeno ventitré marinai risultano morti o dispersi. Nessun Paese è stato ufficialmente indicato come responsabile. Alcuni analisti militari indicano la Russia, che nega ogni coinvolgimento. La decisione della NATO è confermata da una sola fonte primaria."
     },
     {
       "etichetta": "Sesta notizia.",
-      "titolo": "Stati Uniti e Iran: pressione economica e accuse reciproche.",
-      "testo": "Un comandante americano afferma che il blocco navale dei porti iraniani del sud ha colpito duramente il governo di Teheran. Washington dice di aver bloccato almeno venticinque miliardi di dollari di esportazioni di petrolio. L'Iran respinge l'idea di un collasso imminente. Ammette però che sanzioni e guerra pesano sull'economia. La Banca Mondiale prevede una contrazione del sette virgola sette per cento. Questa notizia è confermata da una sola fonte primaria."
+      "titolo": "Russia, attacco di droni su Mosca.",
+      "testo": "Il sindaco di Mosca ha riferito che nella notte sono stati lanciati oltre seicento droni contro la città. La maggior parte sarebbe stata abbattuta alla periferia. Due persone sono rimaste ferite. Un altro attacco con droni ha colpito la città russa di Lipetsk. I dati provengono da fonti russe e non sono verificati in modo indipendente. Questa notizia è confermata da una sola fonte primaria."
     }
   ],
-  "chiusura": "Questo era il brief di oggi. Grazie per l'ascolto."
+  "chiusura": "Questo era il brief di oggi. Buona giornata."
 }
