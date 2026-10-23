@@ -1,37 +1,37 @@
 {
-  "data": "2026-10-22",
-  "apertura": "Buongiorno. Oggi è giovedì ventidue ottobre duemilaventisei. Ecco le sei notizie più rilevanti su conflitti e geopolitica.",
+  "data": "2026-10-23",
+  "apertura": "Buongiorno. Oggi è venerdì ventitré ottobre duemilaventisei. Ecco le sei notizie più rilevanti su conflitti e geopolitica.",
   "notizie": [
     {
       "etichetta": "Prima notizia.",
-      "titolo": "Ucraina, riprendono i contatti dopo l'incontro Witkoff-Putin.",
-      "testo": "Mercoledì ventuno ottobre l'inviato americano Steve Witkoff ha incontrato il presidente russo Vladimir Putin a San Pietroburgo. La Russia ha liberato il cittadino americano Stephen Hubbard, detenuto da oltre quattro anni. Il Cremlino si dice pronto a riprendere i colloqui a tre con Ucraina e Stati Uniti. Mosca indica una data tra l'inizio e la metà di novembre. Il presidente ucraino Volodymyr Zelensky si è detto disponibile a congelare la linea del fronte."
+      "titolo": "Iran, tensione sullo Stretto di Hormuz e piani di nuovi attacchi.",
+      "testo": "Giovedì ventidue ottobre i Guardiani della Rivoluzione iraniani hanno dichiarato di aver colpito sette petroliere nello Stretto di Hormuz. La notizia non è stata verificata in modo indipendente. Il Comando centrale americano la smentisce e afferma che il novantacinque per cento delle navi riesce a transitare. Intanto, secondo il New York Times riportato dall'agenzia ANSA, Stati Uniti e Israele preparerebbero nuovi attacchi all'Iran dopo le elezioni americane del tre novembre. Gli obiettivi sarebbero impianti energetici e nucleari. Il presidente Donald Trump non ha escluso nuove azioni militari."
     },
     {
       "etichetta": "Seconda notizia.",
-      "titolo": "Iran, diplomazia sullo stretto di Hormuz.",
-      "testo": "Il Qatar e la Francia hanno chiesto di riaprire lo stretto di Hormuz alla libera navigazione. Hanno chiesto anche di applicare il cessate il fuoco a Gaza. L'Iran afferma di voler mantenere il proprio uranio. Teheran dice di preferire la diplomazia, ma di essere pronta a difendersi. Il presidente americano Donald Trump nega che ci siano trattative. Questa notizia è confermata da una sola fonte primaria."
+      "titolo": "Ucraina, Mosca accetta di riprendere i colloqui.",
+      "testo": "Mercoledì ventuno ottobre l'inviato americano Steve Witkoff ha incontrato il presidente russo Vladimir Putin a San Pietroburgo. Mosca si dice pronta a riprendere i negoziati mediati dagli Stati Uniti. Un incontro tecnico a tre su garanzie di sicurezza potrebbe tenersi il mese prossimo. La Russia ha liberato il cittadino americano Stephen Hubbard. Giovedì Putin ha detto che un accordo è possibile, ma ha definito il Donbass terra storicamente russa. Il presidente ucraino Volodymyr Zelensky critica la sospensione di nuove sanzioni contro Mosca."
     },
     {
       "etichetta": "Terza notizia.",
-      "titolo": "Sudan, attacco con drone nella regione di Abyei.",
-      "testo": "Un attacco con drone ha colpito un mercato nella regione contesa di Abyei, al confine tra Sudan e Sudan del Sud. Le autorità sudsudanesi parlano di almeno centocinquantatré morti. Accusano l'esercito sudanese. Le Nazioni Unite parlano di decine di civili uccisi. Il segretario generale António Guterres ha condannato l'attacco. Ha chiesto ai due governi di evitare nuove violenze."
+      "titolo": "Ucraina, attacchi incrociati nella notte.",
+      "testo": "Nella notte su giovedì la Russia ha lanciato contro l'Ucraina ventuno missili balistici e oltre duecento droni. A Kiev sono morte almeno due persone, secondo Kiev, e almeno quattro secondo altri conteggi. I feriti sono decine. Il sindaco di Mosca ha riferito di circa seicento droni ucraini diretti verso la regione della capitale. Quasi tutti sono stati abbattuti, e due persone sono rimaste ferite. Nell'est ucraino è stata ordinata l'evacuazione delle famiglie con bambini da Kramatorsk e Sloviansk."
     },
     {
       "etichetta": "Quarta notizia.",
-      "titolo": "Yemen e Arabia Saudita, escalation degli attacchi Houthi.",
-      "testo": "Il Regno Unito ha annunciato l'invio di caccia Typhoon per difendere l'Arabia Saudita dagli attacchi degli Houthi. Il ministero della Difesa britannico parla di un ruolo difensivo. Secondo l'agenzia dell'ONU per i rifugiati, oltre duecentocinquantamila persone sono sfollate in Yemen. Giovedì un attacco a un aeroporto saudita ha ucciso una persona e ne ha ferite otto. Non è chiaro chi sia il responsabile."
+      "titolo": "Sudan, strage causata da un drone nella regione di Abyei.",
+      "testo": "Un attacco con drone contro un mercato nella regione contesa di Abyei, al confine tra Sudan e Sudan del Sud, ha causato almeno centocinquantatré morti. Il bilancio è stato comunicato da un funzionario sudsudanese il ventuno ottobre. Il governo del Sudan del Sud accusa l'esercito sudanese. Un ufficiale dell'esercito sudanese dice che il bersaglio erano cisterne di carburante dei paramilitari delle Forze di supporto rapido. Le Nazioni Unite condannano gli attacchi con droni. Nel Paese circa venti milioni di persone soffrono la fame."
     },
     {
       "etichetta": "Quinta notizia.",
-      "titolo": "Mar Nero, la NATO rafforza la sorveglianza.",
-      "testo": "Martedì venti ottobre la NATO ha annunciato l'invio di altri aerei di pattugliamento nel Mar Nero. La decisione segue una serie di attacchi con droni contro navi mercantili vicino a Bulgaria e Romania. Almeno ventitré marinai risultano morti o dispersi. Nessun Paese è stato ufficialmente indicato come responsabile. Alcuni analisti militari indicano la Russia, che nega ogni coinvolgimento. La decisione della NATO è confermata da una sola fonte primaria."
+      "titolo": "Cisgiordania, aumentano le violenze dei coloni.",
+      "testo": "Durante la raccolta delle olive crescono gli attacchi dei coloni israeliani ai contadini palestinesi. L'ufficio umanitario delle Nazioni Unite ha contato almeno centosessanta attacchi nelle prime due settimane di ottobre. Coloni mascherati hanno aggredito un fotoreporter del Washington Post e diplomatici europei. Un tribunale israeliano ha liberato nove dei dieci sospettati, ora agli arresti domiciliari. Il segretario generale dell'ONU Antonio Guterres parla di situazione fuori controllo."
     },
     {
       "etichetta": "Sesta notizia.",
-      "titolo": "Russia, attacco di droni su Mosca.",
-      "testo": "Il sindaco di Mosca ha riferito che nella notte sono stati lanciati oltre seicento droni contro la città. La maggior parte sarebbe stata abbattuta alla periferia. Due persone sono rimaste ferite. Un altro attacco con droni ha colpito la città russa di Lipetsk. I dati provengono da fonti russe e non sono verificati in modo indipendente. Questa notizia è confermata da una sola fonte primaria."
+      "titolo": "Il Parlamento europeo premia la Corte penale internazionale.",
+      "testo": "Giovedì ventidue ottobre il Parlamento europeo ha assegnato il premio Sacharov alla Corte penale internazionale. Il riconoscimento arriva dopo le sanzioni americane contro la Corte, annunciate all'inizio del mese. Le sanzioni seguono i mandati di arresto per il premier israeliano Benjamin Netanyahu e l'ex ministro Yoav Gallant. L'Unione europea si dice pronta a prendere tutte le misure necessarie. Si valuta anche uno strumento legale per proteggere le imprese europee che collaborano con la Corte."
     }
   ],
-  "chiusura": "Questo era il brief di oggi. Buona giornata."
+  "chiusura": "Per oggi è tutto. Buona giornata."
 }
