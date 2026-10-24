@@ -1,37 +1,32 @@
 {
-  "data": "2026-10-23",
-  "apertura": "Buongiorno. Oggi è venerdì ventitré ottobre duemilaventisei. Ecco le sei notizie più rilevanti su conflitti e geopolitica.",
+  "data": "2026-10-24",
+  "apertura": "Buongiorno. Oggi è sabato ventiquattro ottobre duemilaventisei. Oggi ci sono solo cinque sviluppi rilevanti su conflitti e geopolitica.",
   "notizie": [
     {
       "etichetta": "Prima notizia.",
-      "titolo": "Iran, tensione sullo Stretto di Hormuz e piani di nuovi attacchi.",
-      "testo": "Giovedì ventidue ottobre i Guardiani della Rivoluzione iraniani hanno dichiarato di aver colpito sette petroliere nello Stretto di Hormuz. La notizia non è stata verificata in modo indipendente. Il Comando centrale americano la smentisce e afferma che il novantacinque per cento delle navi riesce a transitare. Intanto, secondo il New York Times riportato dall'agenzia ANSA, Stati Uniti e Israele preparerebbero nuovi attacchi all'Iran dopo le elezioni americane del tre novembre. Gli obiettivi sarebbero impianti energetici e nucleari. Il presidente Donald Trump non ha escluso nuove azioni militari."
+      "titolo": "Guerra con l'Iran, il petrolio sale e Washington parla di un altro anno.",
+      "testo": "Venerdì ventitré ottobre l'ambasciatore americano all'ONU, Mike Waltz, ha detto che la guerra con l'Iran potrebbe durare un altro anno. Ha aggiunto che gli Stati Uniti possono mantenere il blocco dei porti iraniani a lungo. Il greggio Brent ha toccato per breve tempo centodiciassette dollari al barile. È il livello più alto dall'inizio del conflitto. I Guardiani della Rivoluzione sostengono di aver colpito navi nello Stretto di Hormuz. Questi attacchi non sono stati confermati in modo indipendente. Il presidente Trump accusa l'Iran di inventarli. Questa notizia è confermata da una sola fonte primaria."
     },
     {
       "etichetta": "Seconda notizia.",
-      "titolo": "Ucraina, Mosca accetta di riprendere i colloqui.",
-      "testo": "Mercoledì ventuno ottobre l'inviato americano Steve Witkoff ha incontrato il presidente russo Vladimir Putin a San Pietroburgo. Mosca si dice pronta a riprendere i negoziati mediati dagli Stati Uniti. Un incontro tecnico a tre su garanzie di sicurezza potrebbe tenersi il mese prossimo. La Russia ha liberato il cittadino americano Stephen Hubbard. Giovedì Putin ha detto che un accordo è possibile, ma ha definito il Donbass terra storicamente russa. Il presidente ucraino Volodymyr Zelensky critica la sospensione di nuove sanzioni contro Mosca."
+      "titolo": "Cisgiordania, attacco a Hebron e chiusura totale.",
+      "testo": "Venerdì ventitré ottobre due uomini armati hanno attaccato soldati israeliani a un posto di blocco vicino a Hebron. Due soldati israeliani sono morti. I due aggressori sono stati uccisi. Il primo ministro Benjamin Netanyahu ha ordinato di isolare Hebron. Ha anche chiesto di preparare la chiusura completa della Cisgiordania. L'esercito ha avviato un'operazione che durerà alcuni giorni. Martedì in Israele si vota alle elezioni."
     },
     {
       "etichetta": "Terza notizia.",
-      "titolo": "Ucraina, attacchi incrociati nella notte.",
-      "testo": "Nella notte su giovedì la Russia ha lanciato contro l'Ucraina ventuno missili balistici e oltre duecento droni. A Kiev sono morte almeno due persone, secondo Kiev, e almeno quattro secondo altri conteggi. I feriti sono decine. Il sindaco di Mosca ha riferito di circa seicento droni ucraini diretti verso la regione della capitale. Quasi tutti sono stati abbattuti, e due persone sono rimaste ferite. Nell'est ucraino è stata ordinata l'evacuazione delle famiglie con bambini da Kramatorsk e Sloviansk."
+      "titolo": "Ucraina, tregua locale a Oleshky e nuovi negoziati.",
+      "testo": "Venerdì ventitré ottobre negoziatori ucraini, russi e americani hanno concordato una tregua locale a Oleshky, nella regione di Kherson occupata dalla Russia. La tregua serve a portare aiuti e a evacuare i civili rimasti. Si stima che in città siano rimaste circa duemila persone. Il cessate il fuoco inizierà martedì e durerà alcuni giorni. Prima verranno sminate le strade verso la città. Il presidente Zelensky ha confermato che i negoziatori ucraini andranno ad Abu Dhabi nella prima metà di novembre."
     },
     {
       "etichetta": "Quarta notizia.",
-      "titolo": "Sudan, strage causata da un drone nella regione di Abyei.",
-      "testo": "Un attacco con drone contro un mercato nella regione contesa di Abyei, al confine tra Sudan e Sudan del Sud, ha causato almeno centocinquantatré morti. Il bilancio è stato comunicato da un funzionario sudsudanese il ventuno ottobre. Il governo del Sudan del Sud accusa l'esercito sudanese. Un ufficiale dell'esercito sudanese dice che il bersaglio erano cisterne di carburante dei paramilitari delle Forze di supporto rapido. Le Nazioni Unite condannano gli attacchi con droni. Nel Paese circa venti milioni di persone soffrono la fame."
+      "titolo": "Sudan, attacchi con droni uccidono centinaia di civili.",
+      "testo": "L'ONU ha dichiarato venerdì ventitré ottobre che i droni hanno ucciso almeno trecentosei persone nelle prime tre settimane di ottobre. Gli attacchi sono attribuiti sia all'esercito sudanese sia alle Forze di supporto rapido. Lunedì diciannove ottobre un attacco su un mercato nell'area contesa di Abyei ha causato almeno ottanta morti confermati dall'ONU. Le autorità locali parlano di più di centocinquanta vittime. Il Consiglio di sicurezza ha chiesto un'indagine. Mercoledì ventuno ottobre a Ginevra sono ripresi i colloqui di pace, senza governo sudanese e senza paramilitari."
     },
     {
       "etichetta": "Quinta notizia.",
-      "titolo": "Cisgiordania, aumentano le violenze dei coloni.",
-      "testo": "Durante la raccolta delle olive crescono gli attacchi dei coloni israeliani ai contadini palestinesi. L'ufficio umanitario delle Nazioni Unite ha contato almeno centosessanta attacchi nelle prime due settimane di ottobre. Coloni mascherati hanno aggredito un fotoreporter del Washington Post e diplomatici europei. Un tribunale israeliano ha liberato nove dei dieci sospettati, ora agli arresti domiciliari. Il segretario generale dell'ONU Antonio Guterres parla di situazione fuori controllo."
-    },
-    {
-      "etichetta": "Sesta notizia.",
-      "titolo": "Il Parlamento europeo premia la Corte penale internazionale.",
-      "testo": "Giovedì ventidue ottobre il Parlamento europeo ha assegnato il premio Sacharov alla Corte penale internazionale. Il riconoscimento arriva dopo le sanzioni americane contro la Corte, annunciate all'inizio del mese. Le sanzioni seguono i mandati di arresto per il premier israeliano Benjamin Netanyahu e l'ex ministro Yoav Gallant. L'Unione europea si dice pronta a prendere tutte le misure necessarie. Si valuta anche uno strumento legale per proteggere le imprese europee che collaborano con la Corte."
+      "titolo": "Ucraina e Stati Uniti, tensione su Starshield e missili Patriot.",
+      "testo": "Venerdì ventitré ottobre l'Ucraina ha segnalato nuove limitazioni al sistema satellitare militare Starshield. Kiev lo usa molto per la difesa aerea. Il giorno prima il presidente Trump aveva detto che il servizio era stato ripristinato. Il presidente Zelensky afferma che restano bloccati anche gli intercettori Patriot. Gli Stati Uniti negano di aver imposto restrizioni. La disputa arriva mentre si preparano i nuovi negoziati con la Russia."
     }
   ],
-  "chiusura": "Per oggi è tutto. Buona giornata."
+  "chiusura": "Questo era il brief di oggi. Buona giornata."
 }
