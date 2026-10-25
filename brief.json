@@ -1,31 +1,36 @@
 {
-  "data": "2026-10-24",
-  "apertura": "Buongiorno. Oggi è sabato ventiquattro ottobre duemilaventisei. Oggi ci sono solo cinque sviluppi rilevanti su conflitti e geopolitica.",
+  "data": "2026-10-25",
+  "apertura": "Buongiorno. Oggi è domenica venticinque ottobre duemilaventisei. Ecco le sei notizie più rilevanti su conflitti e geopolitica.",
   "notizie": [
     {
       "etichetta": "Prima notizia.",
-      "titolo": "Guerra con l'Iran, il petrolio sale e Washington parla di un altro anno.",
-      "testo": "Venerdì ventitré ottobre l'ambasciatore americano all'ONU, Mike Waltz, ha detto che la guerra con l'Iran potrebbe durare un altro anno. Ha aggiunto che gli Stati Uniti possono mantenere il blocco dei porti iraniani a lungo. Il greggio Brent ha toccato per breve tempo centodiciassette dollari al barile. È il livello più alto dall'inizio del conflitto. I Guardiani della Rivoluzione sostengono di aver colpito navi nello Stretto di Hormuz. Questi attacchi non sono stati confermati in modo indipendente. Il presidente Trump accusa l'Iran di inventarli. Questa notizia è confermata da una sola fonte primaria."
+      "titolo": "Iran, Trump valuta un nuovo attacco o un accordo.",
+      "testo": "Sabato ventiquattro ottobre il presidente americano Donald Trump ha detto che gli Stati Uniti potrebbero colpire l'Iran già domenica. Ha aggiunto che è ancora possibile un accordo con Teheran. Questa dichiarazione è riportata da una sola fonte primaria. L'esercito iraniano ha avvertito che non permetterà alle navi da guerra americane di avvicinarsi. Il Corpo dei Guardiani della Rivoluzione dice che petroliere sono state colpite o hanno urtato mine nello Stretto di Hormuz. Il petrolio Brent è salito a circa centodiciassette dollari al barile, il livello più alto da aprile."
     },
     {
       "etichetta": "Seconda notizia.",
-      "titolo": "Cisgiordania, attacco a Hebron e chiusura totale.",
-      "testo": "Venerdì ventitré ottobre due uomini armati hanno attaccato soldati israeliani a un posto di blocco vicino a Hebron. Due soldati israeliani sono morti. I due aggressori sono stati uccisi. Il primo ministro Benjamin Netanyahu ha ordinato di isolare Hebron. Ha anche chiesto di preparare la chiusura completa della Cisgiordania. L'esercito ha avviato un'operazione che durerà alcuni giorni. Martedì in Israele si vota alle elezioni."
+      "titolo": "Ucraina, nuovi attacchi russi e ripristino di Starlink.",
+      "testo": "Sabato un missile russo ha colpito la città di Lozova e ha ucciso un uomo. Un attacco di droni nella regione di Dnipropetrovsk ha ucciso almeno tre persone. Kiev ha colpito impianti petrolchimici a Togliatti e a Omsk, in Russia. Il ministro della Difesa ucraino ha detto che le restrizioni al servizio satellitare Starlink sono state tolte dopo oltre una settimana. Poche ore dopo Elon Musk ha affermato che la sua azienda aveva ridotto la velocità perché l'esercito ucraino usava il servizio per attacchi con droni."
     },
     {
       "etichetta": "Terza notizia.",
-      "titolo": "Ucraina, tregua locale a Oleshky e nuovi negoziati.",
-      "testo": "Venerdì ventitré ottobre negoziatori ucraini, russi e americani hanno concordato una tregua locale a Oleshky, nella regione di Kherson occupata dalla Russia. La tregua serve a portare aiuti e a evacuare i civili rimasti. Si stima che in città siano rimaste circa duemila persone. Il cessate il fuoco inizierà martedì e durerà alcuni giorni. Prima verranno sminate le strade verso la città. Il presidente Zelensky ha confermato che i negoziatori ucraini andranno ad Abu Dhabi nella prima metà di novembre."
+      "titolo": "Yemen, gli Houthi colpiscono l'Arabia Saudita e Aden.",
+      "testo": "Gli Houthi, il gruppo armato yemenita alleato dell'Iran, hanno lanciato nuovi missili contro l'Arabia Saudita. Riad dice di aver intercettato due missili diretti verso La Mecca e Medina. Gli Houthi negano di aver preso di mira le due città sante. Altri due missili balistici hanno colpito l'aeroporto di Aden, nel sud dello Yemen. È il quarto attacco di questo tipo in un mese. Intanto i combattimenti continuano intorno alla città di Taiz."
     },
     {
       "etichetta": "Quarta notizia.",
-      "titolo": "Sudan, attacchi con droni uccidono centinaia di civili.",
-      "testo": "L'ONU ha dichiarato venerdì ventitré ottobre che i droni hanno ucciso almeno trecentosei persone nelle prime tre settimane di ottobre. Gli attacchi sono attribuiti sia all'esercito sudanese sia alle Forze di supporto rapido. Lunedì diciannove ottobre un attacco su un mercato nell'area contesa di Abyei ha causato almeno ottanta morti confermati dall'ONU. Le autorità locali parlano di più di centocinquanta vittime. Il Consiglio di sicurezza ha chiesto un'indagine. Mercoledì ventuno ottobre a Ginevra sono ripresi i colloqui di pace, senza governo sudanese e senza paramilitari."
+      "titolo": "Cisgiordania, blocco totale dopo l'attacco a Hebron.",
+      "testo": "Venerdì ventitré ottobre due palestinesi armati hanno ucciso due soldati israeliani vicino a Hebron. Entrambi gli aggressori sono morti. Il primo ministro Benjamin Netanyahu ha ordinato la chiusura totale della Cisgiordania. Circa duemila persone sono state allontanate dalle loro case a Hebron, secondo il sindaco e il ministro della Difesa israeliano. Le Nazioni Unite si dicono molto preoccupate. Israele vota martedì ventisette ottobre."
     },
     {
       "etichetta": "Quinta notizia.",
-      "titolo": "Ucraina e Stati Uniti, tensione su Starshield e missili Patriot.",
-      "testo": "Venerdì ventitré ottobre l'Ucraina ha segnalato nuove limitazioni al sistema satellitare militare Starshield. Kiev lo usa molto per la difesa aerea. Il giorno prima il presidente Trump aveva detto che il servizio era stato ripristinato. Il presidente Zelensky afferma che restano bloccati anche gli intercettori Patriot. Gli Stati Uniti negano di aver imposto restrizioni. La disputa arriva mentre si preparano i nuovi negoziati con la Russia."
+      "titolo": "Giordania, strage durante un funerale in una chiesa.",
+      "testo": "Venerdì ventitré ottobre uomini armati hanno aperto il fuoco durante un funerale in una chiesa greco-ortodossa a Hamoud, nella provincia di Karak. I morti sono nove. I feriti sono circa quaranta. Il re Abdullah ha ordinato una risposta durissima e il governo ha proclamato tre giorni di lutto. Gli aggressori non sono stati ancora catturati. Nessuno ha rivendicato l'attacco."
+    },
+    {
+      "etichetta": "Sesta notizia.",
+      "titolo": "Ucraina e Russia, colloqui negli Emirati e tregua a Oleshky.",
+      "testo": "Il Cremlino ha confermato colloqui a tre con Stati Uniti, Russia e Ucraina nella prima metà di novembre ad Abu Dhabi. Il presidente ucraino Volodymyr Zelensky ha confermato l'incontro. Le parti hanno concordato anche una tregua locale a Oleshky, nella regione di Kherson occupata. Secondo le fonti, inizia il ventisette o il ventinove ottobre. Questa notizia è confermata da una sola fonte primaria."
     }
   ],
   "chiusura": "Questo era il brief di oggi. Buona giornata."
