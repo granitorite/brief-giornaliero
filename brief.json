@@ -1,36 +1,31 @@
 {
-  "data": "2026-10-25",
-  "apertura": "Buongiorno. Oggi è domenica venticinque ottobre duemilaventisei. Ecco le sei notizie più rilevanti su conflitti e geopolitica.",
+  "data": "2026-10-26",
+  "apertura": "Buongiorno. Oggi è lunedì ventisei ottobre duemilaventisei. Oggi ci sono solo cinque sviluppi rilevanti su conflitti e geopolitica.",
   "notizie": [
     {
       "etichetta": "Prima notizia.",
-      "titolo": "Iran, Trump valuta un nuovo attacco o un accordo.",
-      "testo": "Sabato ventiquattro ottobre il presidente americano Donald Trump ha detto che gli Stati Uniti potrebbero colpire l'Iran già domenica. Ha aggiunto che è ancora possibile un accordo con Teheran. Questa dichiarazione è riportata da una sola fonte primaria. L'esercito iraniano ha avvertito che non permetterà alle navi da guerra americane di avvicinarsi. Il Corpo dei Guardiani della Rivoluzione dice che petroliere sono state colpite o hanno urtato mine nello Stretto di Hormuz. Il petrolio Brent è salito a circa centodiciassette dollari al barile, il livello più alto da aprile."
+      "titolo": "Ucraina, Starlink ripristinato e colloqui negli Emirati.",
+      "testo": "Sabato ventiquattro ottobre Kiev ha annunciato il ripristino dei collegamenti satellitari Starlink per l'esercito. Le restrizioni duravano da oltre una settimana e avevano ostacolato i droni ucraini. Il Cremlino ha confermato colloqui a tre con Stati Uniti e Ucraina ad Abu Dhabi, nella prima metà di novembre."
     },
     {
       "etichetta": "Seconda notizia.",
-      "titolo": "Ucraina, nuovi attacchi russi e ripristino di Starlink.",
-      "testo": "Sabato un missile russo ha colpito la città di Lozova e ha ucciso un uomo. Un attacco di droni nella regione di Dnipropetrovsk ha ucciso almeno tre persone. Kiev ha colpito impianti petrolchimici a Togliatti e a Omsk, in Russia. Il ministro della Difesa ucraino ha detto che le restrizioni al servizio satellitare Starlink sono state tolte dopo oltre una settimana. Poche ore dopo Elon Musk ha affermato che la sua azienda aveva ridotto la velocità perché l'esercito ucraino usava il servizio per attacchi con droni."
+      "titolo": "Cisgiordania, blocco totale e sfollati a Hebron.",
+      "testo": "Dopo l'attacco di venerdì ventitré ottobre, in cui sono morti due soldati israeliani, l'esercito ha chiuso Hebron. Il primo ministro Benjamin Netanyahu ha ordinato la chiusura totale della Cisgiordania. Circa duemila persone sono state allontanate dalle case, secondo il ministro della Difesa israeliano. L'Autorità Palestinese parla di oltre duemilaseicento sfollati. Domenica l'esercito ha vietato l'ingresso a quasi tutti i lavoratori palestinesi. Israele vota martedì ventisette ottobre."
     },
     {
       "etichetta": "Terza notizia.",
-      "titolo": "Yemen, gli Houthi colpiscono l'Arabia Saudita e Aden.",
-      "testo": "Gli Houthi, il gruppo armato yemenita alleato dell'Iran, hanno lanciato nuovi missili contro l'Arabia Saudita. Riad dice di aver intercettato due missili diretti verso La Mecca e Medina. Gli Houthi negano di aver preso di mira le due città sante. Altri due missili balistici hanno colpito l'aeroporto di Aden, nel sud dello Yemen. È il quarto attacco di questo tipo in un mese. Intanto i combattimenti continuano intorno alla città di Taiz."
+      "titolo": "Yemen, gli Houthi continuano a colpire l'Arabia Saudita.",
+      "testo": "Domenica venticinque ottobre la coalizione guidata dall'Arabia Saudita ha intercettato un missile balistico diretto a Riad. Altri missili erano diretti verso il sud del Paese. I detriti hanno ferito due persone a Khamis Mushait. I voli all'aeroporto di Riad sono ripresi dopo due settimane di chiusura. Gli Houthi avvertono che lo scalo resta un obiettivo militare. Intanto gli Houthi avanzano intorno a Taiz, dove vivono ottocentomila persone."
     },
     {
       "etichetta": "Quarta notizia.",
-      "titolo": "Cisgiordania, blocco totale dopo l'attacco a Hebron.",
-      "testo": "Venerdì ventitré ottobre due palestinesi armati hanno ucciso due soldati israeliani vicino a Hebron. Entrambi gli aggressori sono morti. Il primo ministro Benjamin Netanyahu ha ordinato la chiusura totale della Cisgiordania. Circa duemila persone sono state allontanate dalle loro case a Hebron, secondo il sindaco e il ministro della Difesa israeliano. Le Nazioni Unite si dicono molto preoccupate. Israele vota martedì ventisette ottobre."
+      "titolo": "Serbia, gli studenti vincono le elezioni.",
+      "testo": "Domenica venticinque ottobre si è votato in Serbia per il Parlamento. Secondo i risultati provvisori, la lista degli studenti ha ottenuto circa centotrentotto seggi su duecentocinquanta. La maggioranza è a centoventisei. Il presidente uscente Aleksandar Vucic ha riconosciuto la sconfitta. L'affluenza è stata la più alta dal millenovecentonovantadue. La presidente della Commissione europea Ursula von der Leyen si è congratulata con la lista vincitrice."
     },
     {
       "etichetta": "Quinta notizia.",
-      "titolo": "Giordania, strage durante un funerale in una chiesa.",
-      "testo": "Venerdì ventitré ottobre uomini armati hanno aperto il fuoco durante un funerale in una chiesa greco-ortodossa a Hamoud, nella provincia di Karak. I morti sono nove. I feriti sono circa quaranta. Il re Abdullah ha ordinato una risposta durissima e il governo ha proclamato tre giorni di lutto. Gli aggressori non sono stati ancora catturati. Nessuno ha rivendicato l'attacco."
-    },
-    {
-      "etichetta": "Sesta notizia.",
-      "titolo": "Ucraina e Russia, colloqui negli Emirati e tregua a Oleshky.",
-      "testo": "Il Cremlino ha confermato colloqui a tre con Stati Uniti, Russia e Ucraina nella prima metà di novembre ad Abu Dhabi. Il presidente ucraino Volodymyr Zelensky ha confermato l'incontro. Le parti hanno concordato anche una tregua locale a Oleshky, nella regione di Kherson occupata. Secondo le fonti, inizia il ventisette o il ventinove ottobre. Questa notizia è confermata da una sola fonte primaria."
+      "titolo": "Corea del Nord, Kim Jong Un in visita in Cina.",
+      "testo": "Sabato ventiquattro ottobre il leader nordcoreano Kim Jong Un ha fatto una visita a sorpresa a Dandong, in Cina. È arrivato attraverso il nuovo ponte sul fiume Yalu. Ha incontrato Wang Huning, alto dirigente del Partito comunista cinese. I due hanno visitato un memoriale della guerra di Corea. Le due capitali vogliono rafforzare i legami economici."
     }
   ],
   "chiusura": "Questo era il brief di oggi. Buona giornata."
