@@ -1,32 +1,37 @@
 {
-  "data": "2026-10-26",
-  "apertura": "Buongiorno. Oggi è lunedì ventisei ottobre duemilaventisei. Oggi ci sono solo cinque sviluppi rilevanti su conflitti e geopolitica.",
+  "data": "2026-10-27",
+  "apertura": "Buongiorno. Oggi è martedì ventisette ottobre duemilaventisei. Ecco sei sviluppi rilevanti su conflitti e geopolitica.",
   "notizie": [
     {
       "etichetta": "Prima notizia.",
-      "titolo": "Ucraina, Starlink ripristinato e colloqui negli Emirati.",
-      "testo": "Sabato ventiquattro ottobre Kiev ha annunciato il ripristino dei collegamenti satellitari Starlink per l'esercito. Le restrizioni duravano da oltre una settimana e avevano ostacolato i droni ucraini. Il Cremlino ha confermato colloqui a tre con Stati Uniti e Ucraina ad Abu Dhabi, nella prima metà di novembre."
+      "titolo": "Iran, delegazioni a Teheran per evitare una nuova guerra.",
+      "testo": "Lunedì ventisei ottobre una delegazione di Arabia Saudita, Pakistan e Turchia è arrivata a Teheran. Sono i tre Paesi del patto di difesa firmato alla Mecca. Hanno incontrato il presidente iraniano Masoud Pezeshkian. L'obiettivo è evitare che la guerra in Medio Oriente riprenda. Tra i temi ci sono gli attacchi dei ribelli Houthi, alleati di Teheran, contro l'Arabia Saudita. Non sono stati annunciati risultati concreti, ma le parti hanno deciso di proseguire il dialogo."
     },
     {
       "etichetta": "Seconda notizia.",
-      "titolo": "Cisgiordania, blocco totale e sfollati a Hebron.",
-      "testo": "Dopo l'attacco di venerdì ventitré ottobre, in cui sono morti due soldati israeliani, l'esercito ha chiuso Hebron. Il primo ministro Benjamin Netanyahu ha ordinato la chiusura totale della Cisgiordania. Circa duemila persone sono state allontanate dalle case, secondo il ministro della Difesa israeliano. L'Autorità Palestinese parla di oltre duemilaseicento sfollati. Domenica l'esercito ha vietato l'ingresso a quasi tutti i lavoratori palestinesi. Israele vota martedì ventisette ottobre."
+      "titolo": "Israele al voto per la prima volta dopo il sette ottobre.",
+      "testo": "Oggi, ventisette ottobre, gli israeliani votano per rinnovare il Parlamento. È il primo voto dopo l'attacco di Hamas del sette ottobre duemilaventitré. Il primo ministro Benjamin Netanyahu sfida il centrista Gadi Eisenkot, ex capo di stato maggiore. La corsa appare molto equilibrata. Per governare servono sessantuno seggi su centoventi. I risultati definitivi potrebbero richiedere alcuni giorni."
     },
     {
       "etichetta": "Terza notizia.",
-      "titolo": "Yemen, gli Houthi continuano a colpire l'Arabia Saudita.",
-      "testo": "Domenica venticinque ottobre la coalizione guidata dall'Arabia Saudita ha intercettato un missile balistico diretto a Riad. Altri missili erano diretti verso il sud del Paese. I detriti hanno ferito due persone a Khamis Mushait. I voli all'aeroporto di Riad sono ripresi dopo due settimane di chiusura. Gli Houthi avvertono che lo scalo resta un obiettivo militare. Intanto gli Houthi avanzano intorno a Taiz, dove vivono ottocentomila persone."
+      "titolo": "Cisgiordania, operazione israeliana a Hebron.",
+      "testo": "Venerdì ventitré ottobre due palestinesi hanno ucciso due soldati israeliani a un posto di blocco vicino a Hebron. Entrambi gli aggressori sono morti. Dopo l'attacco l'esercito israeliano ha avviato un'operazione con demolizioni e limiti agli spostamenti. Secondo il municipio, oltre tremila persone hanno lasciato le loro case. L'Alto commissario Onu per i diritti umani, Volker Türk, parla di punizione collettiva. Il segretario generale Antonio Guterres avverte del rischio di pulizia etnica."
     },
     {
       "etichetta": "Quarta notizia.",
-      "titolo": "Serbia, gli studenti vincono le elezioni.",
-      "testo": "Domenica venticinque ottobre si è votato in Serbia per il Parlamento. Secondo i risultati provvisori, la lista degli studenti ha ottenuto circa centotrentotto seggi su duecentocinquanta. La maggioranza è a centoventisei. Il presidente uscente Aleksandar Vucic ha riconosciuto la sconfitta. L'affluenza è stata la più alta dal millenovecentonovantadue. La presidente della Commissione europea Ursula von der Leyen si è congratulata con la lista vincitrice."
+      "titolo": "Ucraina, l'Onu accusa Mosca di crimini di guerra.",
+      "testo": "Lunedì ventisei ottobre una commissione d'inchiesta indipendente delle Nazioni Unite ha concluso che la Russia ha commesso crimini di guerra e crimini contro l'umanità. Il rapporto riguarda gli attacchi ai civili e alle infrastrutture energetiche. Molti abitanti sono rimasti senza riscaldamento, elettricità e acqua. Lo stesso giorno i ministri della Difesa di Francia, Germania, Italia, Polonia e Regno Unito si sono riuniti a Parigi. Hanno ribadito il sostegno all'Ucraina."
     },
     {
       "etichetta": "Quinta notizia.",
-      "titolo": "Corea del Nord, Kim Jong Un in visita in Cina.",
-      "testo": "Sabato ventiquattro ottobre il leader nordcoreano Kim Jong Un ha fatto una visita a sorpresa a Dandong, in Cina. È arrivato attraverso il nuovo ponte sul fiume Yalu. Ha incontrato Wang Huning, alto dirigente del Partito comunista cinese. I due hanno visitato un memoriale della guerra di Corea. Le due capitali vogliono rafforzare i legami economici."
+      "titolo": "Sudan, droni contro civili e centrali elettriche.",
+      "testo": "L'Onu ha documentato almeno trecentosei morti per attacchi di droni nelle prime tre settimane di ottobre. Gli attacchi sono attribuiti sia all'esercito sia alle Forze di supporto rapido. Lunedì ventisei ottobre queste forze hanno colpito cinque centrali elettriche in tre Stati controllati dall'esercito. Ci sono stati blackout estesi. Quasi venti milioni di persone nel Paese soffrono una fame estrema."
+    },
+    {
+      "etichetta": "Sesta notizia.",
+      "titolo": "Algeria invia truppe in Niger.",
+      "testo": "Domenica venticinque ottobre il Parlamento algerino ha approvato l'invio di truppe in Niger. Lunedì il presidente Abdelmadjid Tebboune ha ordinato il dispiegamento. I soldati proteggeranno infrastrutture energetiche, su richiesta del governo nigerino. È il primo dispiegamento all'estero dal millenovecentosettantatré. Il numero dei militari non è stato reso noto."
     }
   ],
-  "chiusura": "Questo era il brief di oggi. Buona giornata."
+  "chiusura": "Questo è tutto per oggi. Buona giornata."
 }
