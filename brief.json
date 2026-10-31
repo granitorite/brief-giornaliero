@@ -1,31 +1,36 @@
 {
-  "data": "2026-10-30",
-  "apertura": "Oggi è venerdì trenta ottobre duemilaventisei. Oggi ci sono cinque sviluppi rilevanti su conflitti e geopolitica.",
+  "data": "2026-10-31",
+  "apertura": "Oggi è sabato trentuno ottobre duemilaventisei. Ecco le sei notizie più rilevanti su conflitti e geopolitica.",
   "notizie": [
     {
       "etichetta": "Prima notizia.",
-      "titolo": "Iran e Stati Uniti, una lettera per riaprire il dialogo.",
-      "testo": "Il vicepresidente americano ha scritto al capo della sicurezza nazionale iraniana, Mohsen Rezaei. Secondo la stampa americana la lettera propone colloqui diretti e mette il nucleare sul tavolo fin dall'inizio. Il presidente Trump dice che lo scopo è far arrivare forniture mediche. Non risulta una risposta pubblica di Teheran. Le Guardie della Rivoluzione affermano che tre petroliere hanno preso fuoco su mine nello stretto di Hormuz. Questo dato non è verificato in modo indipendente. Secondo il Wall Street Journal, Trump avrebbe invitato gli alleati del Golfo a prepararsi a nuovi attacchi dopo le elezioni americane."
+      "titolo": "Petroliere in fiamme nello stretto di Hormuz.",
+      "testo": "Il trenta ottobre i Guardiani della rivoluzione iraniani hanno detto di aver fermato quattro petroliere nello stretto di Hormuz. Secondo Teheran, alcune navi hanno urtato mine su rotte non autorizzate. Gli Stati Uniti sostengono di aver bonificato le rotte principali. L'Oman ha tratto in salvo venticinque marinai da una nave panamense in fiamme. Il traffico nello stretto resta circa settanta per cento sotto i livelli prima della guerra."
     },
     {
       "etichetta": "Seconda notizia.",
-      "titolo": "Strage alla stazione di Dnipro.",
-      "testo": "Giovedì ventinove ottobre un drone russo ha colpito un binario della stazione centrale di Dnipro, in Ucraina. Sul binario c'era un treno diretto a Zaporizhzhia. Almeno tredici civili sono morti, secondo le Nazioni Unite. Al Jazeera parla di almeno quattordici vittime. Lo stesso giorno gli attacchi russi hanno causato almeno diciannove morti in tutto il Paese, sempre secondo Al Jazeera. Il coordinatore umanitario dell'Onu ha condannato l'attacco."
+      "titolo": "Strage alla stazione ferroviaria di Dnipro.",
+      "testo": "Il ventinove ottobre un drone russo ha colpito la banchina della stazione di Dnipro, in Ucraina. Un treno stava per partire verso Zaporizhzhia. Almeno quattordici persone sono morte e circa dieci sono rimaste ferite. L'ONU parla di quindici morti secondo i media e condanna l'attacco. Il presidente Zelensky ha indicato diciannove vittime in tutto il Paese in quella giornata."
     },
     {
       "etichetta": "Terza notizia.",
-      "titolo": "Droni sui civili in Sudan.",
-      "testo": "Lunedì ventisei ottobre un attacco con drone ha colpito un mercato a Nyala, nel Darfur meridionale. Il Fondo delle Nazioni Unite per l'infanzia parla di almeno cinque bambini morti. Altre organizzazioni riportano bilanci molto più alti, che non sono stati verificati. Una missione d'inchiesta dell'Onu dice che ottobre è il mese con più attacchi di droni sui civili dall'inizio della guerra. La missione chiede di estendere l'embargo sulle armi a tutto il Sudan."
+      "titolo": "Evacuazione umanitaria a Oleshky.",
+      "testo": "Il trenta ottobre un convoglio umanitario è entrato a Oleshky, città ucraina occupata dalla Russia nella regione di Kherson. Porta cibo, medicine, cinquanta tra medici e paramedici e venticinque autobus. Una tregua locale è in vigore dalla notte tra lunedì e martedì. Durerà fino a domenica primo novembre. Restano in città al massimo duemila persone, contro le ventiquattromila di prima della guerra."
     },
     {
       "etichetta": "Quarta notizia.",
       "titolo": "Israele senza maggioranza dopo il voto.",
-      "testo": "Lo spoglio delle elezioni israeliane di martedì ventisette ottobre è terminato. Il blocco di Netanyahu ha cinquantatré seggi su centoventi. Il blocco guidato da Gadi Eisenkot ne ha quarantotto. I partiti arabi ne hanno diciannove. Per governare servono sessantuno seggi. Diversi leader dell'opposizione escludono di governare con i partiti arabi. Le trattative per formare il governo potrebbero durare settimane."
+      "testo": "Le elezioni israeliane del ventisette ottobre non hanno dato una maggioranza chiara. Con i risultati definitivi, il blocco di Netanyahu ha cinquantatré seggi. L'alleanza guidata da Gadi Eisenkot ne ha quarantotto. I partiti arabi ne hanno diciannove. Ne servono sessantuno per governare. Netanyahu resta primo ministro in carica mentre cominciano i negoziati. L'agenzia Fitch avverte del rischio di paralisi politica."
     },
     {
       "etichetta": "Quinta notizia.",
-      "titolo": "Missili nordcoreani verso il mare.",
-      "testo": "Giovedì ventinove ottobre la Corea del Nord ha lanciato circa dieci missili balistici a corto raggio dall'area di Wonsan. I missili sono caduti nel mare del Giappone. Il ministero della Difesa sudcoreano parla di circa una dozzina di missili. Il lancio segue l'esplosione di una mina nella zona demilitarizzata, il ventuno settembre, che ha ferito tre soldati sudcoreani. Seul chiede scuse e Pyongyang respinge le accuse."
+      "titolo": "Lavrov al G20 negli Stati Uniti.",
+      "testo": "Il trenta ottobre il ministro degli Esteri russo Sergej Lavrov ha partecipato ad Atlanta alla riunione dei ministri degli Esteri del G20. I ministri europei si sono rifiutati di posare accanto a lui. Gli Stati Uniti hanno quindi annullato la foto di gruppo. Lavrov ha avuto un breve colloquio con il segretario di Stato Marco Rubio. L'Ucraina non era invitata."
+    },
+    {
+      "etichetta": "Sesta notizia.",
+      "titolo": "Via libera Usa a missili Patriot per Kiev.",
+      "testo": "Il Dipartimento di Stato americano ha approvato la possibile vendita all'Ucraina di missili Patriot per due miliardi e centomila dollari. Il pagamento arriverà da donazioni di alleati e da fondi ucraini. I missili devono ancora essere prodotti. Secondo fonti citate da Al Jazeera, le consegne non arriveranno prima di alcuni anni."
     }
   ],
   "chiusura": "Questo era il brief di oggi. Buona giornata."
