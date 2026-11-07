@@ -1,37 +1,32 @@
 {
-  "data": "2026-11-06",
-  "apertura": "Oggi è venerdì sei novembre duemilaventisei. Ecco le sei notizie più rilevanti su conflitti e geopolitica.",
+  "data": "2026-11-07",
+  "apertura": "Oggi è sabato sette novembre duemilaventisei. Oggi ci sono cinque sviluppi rilevanti su conflitti e geopolitica.",
   "notizie": [
     {
       "etichetta": "Prima notizia.",
-      "titolo": "Trump valuta se riprendere la guerra con l'Iran.",
-      "testo": "Giovedì cinque novembre il presidente americano Donald Trump ha detto che deciderà presto sull'Iran. Ha spiegato che preferirebbe non distruggere il Paese, ma potrebbe esservi costretto. Un alto funzionario iraniano ha risposto che Teheran non tratterà né riaprirà lo stretto di Hormuz finché Washington non soddisferà sette condizioni. Il Qatar intensifica la mediazione per fermare la guerra. Il governo iracheno ha detto a Trump che il suo territorio non deve servire per attacchi ai Paesi vicini. La dichiarazione di Trump è confermata da una sola fonte primaria."
+      "titolo": "Nuovi attacchi americani sull'isola iraniana di Qeshm.",
+      "testo": "Venerdì sei novembre il presidente americano Donald Trump ha confermato nuovi attacchi sull'isola di Qeshm, nello stretto di Hormuz. Li ha definiti attacchi minori contro le difese aeree iraniane. I media iraniani parlano di due missili caduti nella zona di Suza. Sono i primi attacchi dopo le elezioni americane di metà mandato. Trump dice che i negoziati con Teheran vanno avanti, mediati dal Qatar. Il Qatar ha smentito che le trattative siano fallite. Il Comando centrale americano ha detto che la situazione è relativamente calma."
     },
     {
       "etichetta": "Seconda notizia.",
-      "titolo": "Alla Casa Bianca russi e ucraini discutono della tregua di Oleshky.",
-      "testo": "Giovedì cinque novembre la first lady Melania Trump ha ricevuto alla Casa Bianca rappresentanti russi e ucraini. L'incontro riguardava la tregua di sei giorni a Oleshky, nella regione ucraina di Kherson. Quella tregua ha permesso di evacuare quasi ottocento civili. Melania Trump ha consegnato due lettere personali, una per Putin e una per Zelensky. Lo stesso giorno Trump ha incontrato l'inviato russo Kirill Dmitriev. Ha detto che un accordo tra Russia e Ucraina potrebbe essere molto vicino."
+      "titolo": "Missili balistici russi su Kiev.",
+      "testo": "Nella notte tra venerdì e sabato la Russia ha lanciato missili balistici contro Kiev. Il sindaco Vitali Klitschko ha parlato di colpi contro le infrastrutture. Almeno cinque persone sono rimaste ferite. Un edificio residenziale e un asilo hanno subito danni. Un impianto energetico colpito nella regione di Zhytomyr peggiora la fornitura di elettricità e acqua nella capitale. Il presidente Volodymyr Zelensky avverte che Mosca prepara nuovi attacchi a centrali, ponti e altre infrastrutture civili."
     },
     {
       "etichetta": "Terza notizia.",
-      "titolo": "Intercettato un missile diretto verso Medina.",
-      "testo": "Giovedì cinque novembre la coalizione guidata dall'Arabia Saudita ha detto di aver intercettato un missile balistico diretto verso la regione di Medina. Il lancio è attribuito ai ribelli huthi dello Yemen. Gli huthi negano di aver preso di mira la città e dicono di colpire solo impianti petroliferi e basi militari. Poco prima la protezione civile saudita aveva segnalato un pericolo vicino al porto di Yanbu. Yanbu è lo sbocco sul Mar Rosso dell'oleodotto che aggira lo stretto di Hormuz."
+      "titolo": "Salgono a cinquantatré i morti di Komyshuvakha.",
+      "testo": "Il bilancio del bombardamento russo del due novembre a Komyshuvakha, nella regione di Zaporizhzhia, è salito a cinquantatré morti. Il colpo ha raggiunto un punto di distribuzione di aiuti. Le autorità regionali dicono che circa cinquanta persone risultano ancora disperse. Le squadre di soccorso hanno recuperato corpi da una scuola sotterranea. È uno degli attacchi più letali contro i civili quest'anno. L'attacco è avvenuto un giorno dopo la fine di una tregua locale."
     },
     {
       "etichetta": "Quarta notizia.",
-      "titolo": "La Corea del Sud prepara una missione vicino a Hormuz.",
-      "testo": "Giovedì cinque novembre il ministero della Difesa sudcoreano ha annunciato una missione navale vicino allo stretto di Hormuz. Sono previsti un cacciatorpediniere, un aereo da pattugliamento e una squadra per disinnescare ordigni. La missione è senza compiti di combattimento e opera in acque aperte a sud dell'Oman. Teheran ha avvertito Seul contro l'iniziativa. A settembre il presidente Lee Jae Myung aveva escluso un invio di forze. Il Parlamento deve approvare la proroga oltre la fine dell'anno."
+      "titolo": "Diplomazia sull'Ucraina tra Washington, Mosca ed Europa.",
+      "testo": "Giovedì cinque novembre Trump ha incontrato alla Casa Bianca Kirill Dmitriev, inviato speciale del presidente russo Vladimir Putin. Ha detto che un accordo tra Russia e Ucraina potrebbe essere vicino. Il giorno dopo ha telefonato al cancelliere tedesco Friedrich Merz. Kaja Kallas, alta rappresentante dell'Unione europea, ha affermato che senza l'Europa non ci può essere alcun accordo. Nuovi colloqui con la mediazione americana sono attesi ad Abu Dhabi. Zelensky chiede garanzie precise sul sostegno alla sicurezza dopo la guerra."
     },
     {
       "etichetta": "Quinta notizia.",
-      "titolo": "L'Unione europea versa all'Ucraina oltre quattro miliardi di euro.",
-      "testo": "Il cinque novembre la Commissione europea ha versato all'Ucraina quattro miliardi e trecentosessanta milioni di euro. Tre miliardi e settecento milioni sono assistenza finanziaria per il bilancio. Seicentocinquantotto milioni sono destinati alla difesa. Finanzieranno droni, missili, radar e munizioni per la contraerea. I fondi vengono dal prestito europeo da novanta miliardi per l'Ucraina. Per il resto del duemilaventisei restano disponibili venticinque miliardi di euro."
-    },
-    {
-      "etichetta": "Sesta notizia.",
-      "titolo": "I partiti arabi israeliani indicano Eisenkot come premier.",
-      "testo": "Il cinque novembre i partiti arabi israeliani hanno indicato Gadi Eisenkot come primo ministro. Le elezioni del ventisette ottobre non hanno dato la maggioranza né a lui né a Benjamin Netanyahu. La Lista Unita ha undici seggi e Ra'am ne ha otto. Il blocco di Netanyahu ne ha cinquantatre, quello di Eisenkot quarantotto. Chi riceverà l'incarico avrà ventotto giorni per formare il governo."
+      "titolo": "Almeno trentatré civili uccisi nell'est del Congo.",
+      "testo": "Nella notte tra giovedì e venerdì uomini armati hanno attaccato villaggi nella provincia del Nord Kivu, nell'est della Repubblica Democratica del Congo. Il villaggio più colpito è Cantine, a circa cinquanta chilometri da Beni. Almeno trentatré persone sono state uccise e più di cinquanta case sono state incendiate. Le autorità locali indicano come responsabili le Forze democratiche alleate, un gruppo legato allo Stato islamico. L'attacco ha spinto in fuga centottanta pazienti da un ospedale in una zona colpita dall'epidemia di Ebola. Le Nazioni Unite hanno chiesto di proteggere i civili."
     }
   ],
-  "chiusura": "Questo era il brief di oggi. Buona giornata."
+  "chiusura": "Questo è tutto per oggi. Buona giornata."
 }
