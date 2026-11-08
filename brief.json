@@ -1,31 +1,26 @@
 {
-  "data": "2026-11-07",
-  "apertura": "Oggi è sabato sette novembre duemilaventisei. Oggi ci sono cinque sviluppi rilevanti su conflitti e geopolitica.",
+  "data": "2026-11-08",
+  "apertura": "Buongiorno. Oggi è domenica otto novembre duemilaventisei. Oggi ci sono solo quattro sviluppi rilevanti su conflitti e geopolitica.",
   "notizie": [
     {
       "etichetta": "Prima notizia.",
-      "titolo": "Nuovi attacchi americani sull'isola iraniana di Qeshm.",
-      "testo": "Venerdì sei novembre il presidente americano Donald Trump ha confermato nuovi attacchi sull'isola di Qeshm, nello stretto di Hormuz. Li ha definiti attacchi minori contro le difese aeree iraniane. I media iraniani parlano di due missili caduti nella zona di Suza. Sono i primi attacchi dopo le elezioni americane di metà mandato. Trump dice che i negoziati con Teheran vanno avanti, mediati dal Qatar. Il Qatar ha smentito che le trattative siano fallite. Il Comando centrale americano ha detto che la situazione è relativamente calma."
+      "titolo": "Nuovo attacco russo su Kyiv e sulla rete elettrica.",
+      "testo": "Nella notte tra venerdì e sabato la Russia ha lanciato contro l'Ucraina centosettantadue droni e trentasei missili balistici. Sono state colpite sottostazioni elettriche in cinque regioni e un ponte importante a Kyiv. Secondo il presidente Volodymyr Zelensky, solo quattro missili sono stati intercettati. Almeno due persone sono morte. Intanto è salito ad almeno cinquanta il bilancio dell'attacco del due novembre a Komyshuvakha, nella regione di Zaporizhzhia. Il bersaglio era un punto di distribuzione di aiuti."
     },
     {
       "etichetta": "Seconda notizia.",
-      "titolo": "Missili balistici russi su Kiev.",
-      "testo": "Nella notte tra venerdì e sabato la Russia ha lanciato missili balistici contro Kiev. Il sindaco Vitali Klitschko ha parlato di colpi contro le infrastrutture. Almeno cinque persone sono rimaste ferite. Un edificio residenziale e un asilo hanno subito danni. Un impianto energetico colpito nella regione di Zhytomyr peggiora la fornitura di elettricità e acqua nella capitale. Il presidente Volodymyr Zelensky avverte che Mosca prepara nuovi attacchi a centrali, ponti e altre infrastrutture civili."
+      "titolo": "Colpi americani sull'isola iraniana di Qeshm.",
+      "testo": "Il presidente americano Donald Trump ha confermato nuovi attacchi contro obiettivi iraniani, che ha definito minori. Sabato l'agenzia iraniana Tasnim ha riferito che due missili hanno colpito l'isola di Qeshm. Nell'ultima settimana almeno undici navi sono state attaccate nello Stretto di Hormuz e tre sono affondate. Il traffico di petroliere resta circa sessantacinque per cento sotto i livelli precedenti al conflitto. Il ministro degli Esteri iraniano Abbas Araghchi ha sentito dodici omologhi per cercare una mediazione."
     },
     {
       "etichetta": "Terza notizia.",
-      "titolo": "Salgono a cinquantatré i morti di Komyshuvakha.",
-      "testo": "Il bilancio del bombardamento russo del due novembre a Komyshuvakha, nella regione di Zaporizhzhia, è salito a cinquantatré morti. Il colpo ha raggiunto un punto di distribuzione di aiuti. Le autorità regionali dicono che circa cinquanta persone risultano ancora disperse. Le squadre di soccorso hanno recuperato corpi da una scuola sotterranea. È uno degli attacchi più letali contro i civili quest'anno. L'attacco è avvenuto un giorno dopo la fine di una tregua locale."
+      "titolo": "Nuova task force americana contro i rifornimenti all'Iran.",
+      "testo": "Sabato il Comando centrale americano ha annunciato la task force Iron Gate. Il suo compito è bloccare i trasporti verso l'Iran via terra e attraverso il Mar Caspio. Così si estende il blocco navale dei porti iraniani, in corso da mesi. Lo stesso giorno aerei americani hanno colpito e fermato nel Golfo di Oman il cargo Huda. Secondo il comando, l'equipaggio aveva ignorato gli avvertimenti e tentato di forzare il blocco."
     },
     {
       "etichetta": "Quarta notizia.",
-      "titolo": "Diplomazia sull'Ucraina tra Washington, Mosca ed Europa.",
-      "testo": "Giovedì cinque novembre Trump ha incontrato alla Casa Bianca Kirill Dmitriev, inviato speciale del presidente russo Vladimir Putin. Ha detto che un accordo tra Russia e Ucraina potrebbe essere vicino. Il giorno dopo ha telefonato al cancelliere tedesco Friedrich Merz. Kaja Kallas, alta rappresentante dell'Unione europea, ha affermato che senza l'Europa non ci può essere alcun accordo. Nuovi colloqui con la mediazione americana sono attesi ad Abu Dhabi. Zelensky chiede garanzie precise sul sostegno alla sicurezza dopo la guerra."
-    },
-    {
-      "etichetta": "Quinta notizia.",
-      "titolo": "Almeno trentatré civili uccisi nell'est del Congo.",
-      "testo": "Nella notte tra giovedì e venerdì uomini armati hanno attaccato villaggi nella provincia del Nord Kivu, nell'est della Repubblica Democratica del Congo. Il villaggio più colpito è Cantine, a circa cinquanta chilometri da Beni. Almeno trentatré persone sono state uccise e più di cinquanta case sono state incendiate. Le autorità locali indicano come responsabili le Forze democratiche alleate, un gruppo legato allo Stato islamico. L'attacco ha spinto in fuga centottanta pazienti da un ospedale in una zona colpita dall'epidemia di Ebola. Le Nazioni Unite hanno chiesto di proteggere i civili."
+      "titolo": "Colloqui di pace ad Abu Dhabi.",
+      "testo": "Martedì dieci novembre sono attesi ad Abu Dhabi nuovi colloqui tra Russia e Ucraina, con la mediazione degli Stati Uniti. I precedenti risalgono a febbraio. La Russia invierà diplomatici e militari di alto livello, tra cui il viceministro degli Esteri Sergej Rjabkov. La delegazione ucraina sarà guidata da Rustem Umerov. Zelensky chiede garanzie di sicurezza precise agli alleati e più sistemi antiaerei Patriot."
     }
   ],
   "chiusura": "Questo è tutto per oggi. Buona giornata."
