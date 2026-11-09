@@ -1,27 +1,37 @@
 {
-  "data": "2026-11-08",
-  "apertura": "Buongiorno. Oggi è domenica otto novembre duemilaventisei. Oggi ci sono solo quattro sviluppi rilevanti su conflitti e geopolitica.",
+  "data": "2026-11-09",
+  "apertura": "Buongiorno. Oggi è lunedì nove novembre duemilaventisei. Ecco i sei sviluppi più rilevanti su conflitti e geopolitica.",
   "notizie": [
     {
       "etichetta": "Prima notizia.",
-      "titolo": "Nuovo attacco russo su Kyiv e sulla rete elettrica.",
-      "testo": "Nella notte tra venerdì e sabato la Russia ha lanciato contro l'Ucraina centosettantadue droni e trentasei missili balistici. Sono state colpite sottostazioni elettriche in cinque regioni e un ponte importante a Kyiv. Secondo il presidente Volodymyr Zelensky, solo quattro missili sono stati intercettati. Almeno due persone sono morte. Intanto è salito ad almeno cinquanta il bilancio dell'attacco del due novembre a Komyshuvakha, nella regione di Zaporizhzhia. Il bersaglio era un punto di distribuzione di aiuti."
+      "titolo": "Iran e Stati Uniti, il negoziato resta in stallo.",
+      "testo": "Domenica otto novembre il segretario di Stato americano Marco Rubio ha detto che non c'è una svolta imminente nei colloqui con l'Iran. Ha definito inaccettabili alcune richieste di Teheran. Il presidente Donald Trump ha detto che nuovi attacchi sono molto improbabili, se i colloqui progrediscono. Il ministro degli Esteri iraniano Abbas Araghchi ha ribadito l'offerta di riaprire lo Stretto di Hormuz entro due giorni. L'offerta vale solo se gli Stati Uniti accettano le condizioni di Teheran, tra cui la fine della guerra su tutti i fronti."
     },
     {
       "etichetta": "Seconda notizia.",
-      "titolo": "Colpi americani sull'isola iraniana di Qeshm.",
-      "testo": "Il presidente americano Donald Trump ha confermato nuovi attacchi contro obiettivi iraniani, che ha definito minori. Sabato l'agenzia iraniana Tasnim ha riferito che due missili hanno colpito l'isola di Qeshm. Nell'ultima settimana almeno undici navi sono state attaccate nello Stretto di Hormuz e tre sono affondate. Il traffico di petroliere resta circa sessantacinque per cento sotto i livelli precedenti al conflitto. Il ministro degli Esteri iraniano Abbas Araghchi ha sentito dodici omologhi per cercare una mediazione."
+      "titolo": "Nuovo attacco russo contro l'energia ucraina.",
+      "testo": "Il sette novembre la Russia ha colpito Kiev con missili balistici e droni. Secondo il presidente Volodymyr Zelensky erano trentasei missili e centosettantadue droni. Sono stati danneggiati impianti elettrici in cinque regioni e il ponte Nord sul fiume Dnipro. A Kiev mancano in parte elettricità, acqua e riscaldamento. Zelensky dice che l'Ucraina ha intercettato solo quattro missili e collega l'attacco ai colloqui di Abu Dhabi, previsti martedì e mercoledì."
     },
     {
       "etichetta": "Terza notizia.",
-      "titolo": "Nuova task force americana contro i rifornimenti all'Iran.",
-      "testo": "Sabato il Comando centrale americano ha annunciato la task force Iron Gate. Il suo compito è bloccare i trasporti verso l'Iran via terra e attraverso il Mar Caspio. Così si estende il blocco navale dei porti iraniani, in corso da mesi. Lo stesso giorno aerei americani hanno colpito e fermato nel Golfo di Oman il cargo Huda. Secondo il comando, l'equipaggio aveva ignorato gli avvertimenti e tentato di forzare il blocco."
+      "titolo": "Hormuz, nuovi colpi americani sull'isola di Qeshm.",
+      "testo": "Il sette novembre Trump ha confermato nuovi attacchi americani sull'isola iraniana di Qeshm. Li ha definiti minori e diretti contro un dispositivo antiaereo. Secondo l'agenzia britannica per la sicurezza della navigazione commerciale, nell'ultima settimana almeno undici navi sono state attaccate nell'area. Tre sono affondate. Il traffico nello Stretto è circa sessantacinque per cento sotto i livelli precedenti alla guerra."
     },
     {
       "etichetta": "Quarta notizia.",
-      "titolo": "Colloqui di pace ad Abu Dhabi.",
-      "testo": "Martedì dieci novembre sono attesi ad Abu Dhabi nuovi colloqui tra Russia e Ucraina, con la mediazione degli Stati Uniti. I precedenti risalgono a febbraio. La Russia invierà diplomatici e militari di alto livello, tra cui il viceministro degli Esteri Sergej Rjabkov. La delegazione ucraina sarà guidata da Rustem Umerov. Zelensky chiede garanzie di sicurezza precise agli alleati e più sistemi antiaerei Patriot."
+      "titolo": "Israele, a Eisenkot l'incarico di formare il governo.",
+      "testo": "Domenica otto novembre il presidente Isaac Herzog ha affidato a Gadi Eisenkot l'incarico di formare il governo. Eisenkot guida l'opposizione. Alle elezioni del ventisette ottobre nessun blocco ha raggiunto i sessantuno seggi necessari. Eisenkot esclude i partiti arabi dalla coalizione. Si dice pronto ad accogliere esponenti del Likud, il partito di Netanyahu. Ha ventotto giorni di tempo, prorogabili di quattordici."
+    },
+    {
+      "etichetta": "Quinta notizia.",
+      "titolo": "Gaza, le piogge allagano le tende degli sfollati.",
+      "testo": "Forti piogge hanno allagato le tende degli sfollati nella Striscia di Gaza. Le autorità locali parlano di decine di migliaia di persone senza riparo. Vicino a Deir al-Balah un cumulo di sabbia è crollato su alcune tende. Sono morte cinque persone, tra cui bambini. Le cifre arrivano dalle autorità e dalla protezione civile di Gaza."
+    },
+    {
+      "etichetta": "Sesta notizia.",
+      "titolo": "Iraq, un drone ferma il giacimento di gas di Khor Mor.",
+      "testo": "Nella notte tra domenica e lunedì un drone ha colpito il giacimento di Khor Mor, nel Kurdistan iracheno. La produzione di gas è sospesa. Più del settanta per cento della regione è rimasto senza elettricità. Il primo ministro iracheno dice che non ci sono vittime. Nessuno ha rivendicato l'attacco. Questa notizia è confermata da una sola fonte primaria."
     }
   ],
-  "chiusura": "Questo è tutto per oggi. Buona giornata."
+  "chiusura": "Questo era il brief di oggi. Buona giornata."
 }
