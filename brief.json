@@ -1,6 +1,6 @@
 {
   "data": "2026-11-10",
-  "apertura": "Buongiorno. Oggi è martedì dieci novembre duemilaventisei. Ecco i sei sviluppi più rilevanti su conflitti e geopolitica.",
+  "apertura": "Buongiorno. Oggi è martedì dieci novembre duemilaventisei. Oggi ci sono cinque sviluppi rilevanti su conflitti e geopolitica.",
   "notizie": [
     {
       "etichetta": "Prima notizia.",
@@ -26,11 +26,6 @@
       "etichetta": "Quinta notizia.",
       "titolo": "Gli Houthi colpiscono l'Arabia Saudita.",
       "testo": "Domenica otto novembre gli Houthi dello Yemen hanno rivendicato un attacco a un edificio della compagnia Aramco a Riad. I danni sono lievi e non ci sono feriti. Lunedì è stato colpito l'oleodotto saudita Est-Ovest, con un incendio limitato. Nelle ultime ore la coalizione guidata dai sauditi ha intercettato missili diretti verso Riad. L'oleodotto è una via chiave per l'export di petrolio, perché l'Iran limita lo stretto di Hormuz."
-    },
-    {
-      "etichetta": "Sesta notizia.",
-      "titolo": "Gaza, crollo di terra su un campo di sfollati.",
-      "testo": "Lunedì nove novembre una tempesta ha provocato il crollo di terra su alcune tende nel centro di Gaza. Cinque persone sono morte, tra cui bambini. Il crollo è avvenuto in un centro di accoglienza a sud di Deir al-Balah. La pioggia ha allagato circa settantamila tende nel territorio. Le autorità locali criticano l'inazione internazionale."
     }
   ],
   "chiusura": "Questo era il brief di oggi. Buona giornata."
