@@ -1,32 +1,37 @@
 {
-  "data": "2026-11-11",
-  "apertura": "Buongiorno. Oggi è mercoledì undici novembre duemilaventisei. Oggi ci sono solo cinque sviluppi rilevanti su conflitti e geopolitica.",
+  "data": "2026-11-12",
+  "apertura": "Buongiorno. Oggi è giovedì dodici novembre duemilaventisei. Ecco i sei sviluppi principali su conflitti e geopolitica.",
   "notizie": [
     {
       "etichetta": "Prima notizia.",
-      "titolo": "Ucraina e Russia trattano ad Abu Dhabi.",
-      "testo": "Martedì dieci novembre le delegazioni di Ucraina e Russia si sono incontrate ad Abu Dhabi, negli Emirati Arabi Uniti. I colloqui sono mediati dagli Stati Uniti, con gli inviati Steve Witkoff e Jared Kushner. È il primo incontro a tre dallo scorso febbraio. Il presidente ucraino Volodymyr Zelensky ha definito costruttiva la prima giornata. Le parti hanno discusso di garanzie di sicurezza e di uno scambio di prigionieri. Nessun accordo è stato annunciato. Oggi è prevista la seconda giornata di colloqui."
+      "titolo": "Abu Dhabi, accordo su un grande scambio di prigionieri.",
+      "testo": "Mercoledì undici novembre si sono chiusi ad Abu Dhabi due giorni di colloqui tra Ucraina e Russia. La mediazione è degli Stati Uniti. Le due delegazioni hanno concordato in linea di principio un grande scambio di prigionieri di guerra. Non c'è stata nessuna svolta sul cessate il fuoco né sui territori. Mosca continua a chiedere il ritiro delle forze ucraine dalla regione del Donbass. Gli inviati americani Steve Witkoff e Jared Kushner sono attesi oggi a Mosca dal presidente russo Vladimir Putin. Poi incontreranno a Dublino il presidente ucraino Volodymyr Zelensky."
     },
     {
       "etichetta": "Seconda notizia.",
-      "titolo": "Israele, si insedia il nuovo Parlamento.",
-      "testo": "Martedì dieci novembre ha giurato la nuova Knesset, il Parlamento israeliano. Le elezioni di ottobre hanno tolto la maggioranza a Benjamin Netanyahu. L'incarico di formare il governo è andato a Gadi Eisenkot, ex capo delle forze armate. Ha tempo fino al sei dicembre, con una possibile proroga di due settimane. Fino ad allora Netanyahu resta primo ministro. Il blocco di Eisenkot ha proposto una commissione d'inchiesta sull'attacco di Hamas del sette ottobre duemilaventitré."
+      "titolo": "Israele valuta un nuovo attacco all'Iran.",
+      "testo": "Mercoledì sera i media israeliani hanno riferito una decisione del gabinetto di sicurezza. Il gabinetto ha chiesto all'esercito di intensificare i preparativi per un possibile attacco all'Iran. Benjamin Netanyahu guida un governo provvisorio dopo aver perso la maggioranza alle elezioni di ottobre. Gadi Eisenkot è incaricato di formare il nuovo governo israeliano. Ha chiesto a Netanyahu di non usare la forza senza una minaccia diretta e immediata."
     },
     {
       "etichetta": "Terza notizia.",
-      "titolo": "Il G7 discute di Libano e Ucraina.",
-      "testo": "I ministri degli Esteri del Gruppo dei Sette, il G7, si sono riuniti a Parigi il nove e il dieci novembre. Hanno concordato di evitare un vuoto di sicurezza in Libano. La missione di pace delle Nazioni Unite nel sud del Libano termina a fine anno. Non c'è ancora un accordo su cosa la sostituirà. I ministri hanno ribadito il loro no a cambiamenti della situazione con la forza, anche nello Stretto di Taiwan. Una sessione è stata dedicata al sostegno all'Ucraina, con il ministro degli Esteri ucraino."
+      "titolo": "Raid israeliano sull'ospedale Nasser di Gaza.",
+      "testo": "Nella notte di giovedì un attacco aereo israeliano ha colpito il complesso ospedaliero Nasser, a Khan Yunis. L'ospedale si trova nel sud della Striscia di Gaza. Almeno sei persone sono morte, tra cui un chirurgo. I feriti sono circa venti. L'esercito israeliano afferma di aver colpito obiettivi di Hamas all'interno della struttura. La tregua è in vigore dall'ottobre duemilaventicinque, ma gli attacchi israeliani continuano quasi ogni giorno."
     },
     {
       "etichetta": "Quarta notizia.",
-      "titolo": "Ufficiale americano arrestato per spionaggio.",
-      "testo": "Martedì dieci novembre la polizia britannica ha arrestato un ufficiale dell'esercito degli Stati Uniti di quarantuno anni. È sospettato di aver raccolto informazioni riservate e di aver aiutato servizi segreti stranieri. Secondo la polizia, il caso riguarda la Russia. L'arresto è avvenuto vicino a Gloucester, nell'Inghilterra occidentale. L'uomo lavorava in una base che ospita un comando dell'Organizzazione del Trattato del Nord Atlantico, la NATO. Alle indagini partecipa anche la polizia federale americana."
+      "titolo": "Droni nei cieli dei Paesi baltici.",
+      "testo": "Nella notte tra martedì e mercoledì Lituania, Lettonia ed Estonia hanno diramato allerte aeree per alcuni droni non identificati. In Lituania i residenti di diverse zone sono stati invitati a mettersi al riparo. Sono decollati i caccia dell'Organizzazione del Trattato del Nord Atlantico, la NATO. Due tentativi di abbattere un drone sono falliti. Il ministro della Difesa lituano ritiene che i droni fossero ucraini, deviati durante un attacco al porto russo di Ust-Luga. Lo stato maggiore lituano afferma che la loro origine non è ancora confermata."
     },
     {
       "etichetta": "Quinta notizia.",
-      "titolo": "Sudan, droni sul Nilo Azzurro.",
-      "testo": "Martedì dieci novembre un attacco con droni ha ucciso almeno nove civili nello stato del Nilo Azzurro, nel sud-est del Sudan. Il villaggio colpito si trova vicino al confine con l'Etiopia. Le autorità locali accusano le Forze di supporto rapido, il gruppo paramilitare in guerra con l'esercito. I paramilitari non hanno commentato. La guerra in Sudan dura dall'aprile duemilaventitré e ha costretto alla fuga circa tredici milioni di persone."
+      "titolo": "Attacco russo su un mercato nella regione di Odessa.",
+      "testo": "Mercoledì undici novembre un attacco russo ha colpito un mercato affollato a Chornomorsk, nella regione ucraina di Odessa. Secondo il governatore regionale almeno quattro persone sono morte. Una decina di persone sono rimaste ferite, alcune in modo grave. L'attacco è avvenuto mentre ad Abu Dhabi erano in corso i colloqui di pace."
+    },
+    {
+      "etichetta": "Sesta notizia.",
+      "titolo": "Strage di civili nell'est della Repubblica Democratica del Congo.",
+      "testo": "Martedì dieci novembre una serie di attacchi ha colpito otto villaggi nel territorio di Mambasa, nella provincia dell'Ituri. Almeno ventidue civili sono stati uccisi e dieci sono stati rapiti. Gli attacchi sono attribuiti alle Forze Democratiche Alleate, un gruppo armato affiliato allo Stato Islamico. Il bilancio è provvisorio perché alcune zone restano irraggiungibili. Questa notizia è confermata da una sola fonte primaria."
     }
   ],
-  "chiusura": "Questo era il brief di oggi. Buona giornata."
+  "chiusura": "Per oggi è tutto. Grazie per l'ascolto e buona giornata."
 }
