@@ -1,37 +1,37 @@
 {
-  "data": "2026-11-13",
-  "apertura": "Buongiorno. Oggi è venerdì tredici novembre duemilaventisei. Ecco i sei sviluppi principali su conflitti e geopolitica.",
+  "data": "2026-11-14",
+  "apertura": "Buongiorno. Oggi è sabato quattordici novembre duemilaventisei. Ecco i sei sviluppi principali su conflitti e geopolitica.",
   "notizie": [
     {
       "etichetta": "Prima notizia.",
-      "titolo": "Ucraina, gli inviati americani da Putin e poi da Zelensky.",
-      "testo": "Giovedì gli inviati statunitensi Steve Witkoff e Jared Kushner hanno incontrato Vladimir Putin al Cremlino. Putin non ha cambiato le sue richieste e ha proposto una missione umanitaria nella città contesa di Kostiantynivka. In serata gli inviati hanno incontrato Volodymyr Zelensky a Dublino e hanno annunciato la presenza europea al prossimo round di negoziati. Putin e Donald Trump ne riparleranno la prossima settimana a un vertice in Cina."
+      "titolo": "Iran e Stati Uniti, nuovo scontro nel Golfo.",
+      "testo": "Venerdì i Guardiani della rivoluzione iraniani hanno dichiarato di aver distrutto un radar americano in Bahrein. Teheran parla di una risposta a un attacco aereo sulla città costiera di Sirik, vicino allo Stretto di Hormuz. Il Comando centrale degli Stati Uniti smentisce e dice di aver abbattuto due droni senza danni. È la prima azione iraniana rivendicata contro basi americane nel Golfo da settembre."
     },
     {
       "etichetta": "Seconda notizia.",
-      "titolo": "L'Iran minaccia le basi americane fino all'Europa.",
-      "testo": "Mohsen Rezaei, segretario del Consiglio supremo di sicurezza nazionale iraniano, ha lanciato un avvertimento agli Stati Uniti. In caso di nuova guerra, le basi usate per attaccare l'Iran diventerebbero bersagli, dal Medio Oriente fino all'Europa. Teheran ha anche respinto la proposta americana di trasferire all'estero il suo uranio arricchito al sessanta per cento. Le minacce arrivano dopo le notizie sui preparativi militari israeliani per un possibile attacco all'Iran."
+      "titolo": "Notte di attacchi incrociati tra Russia e Ucraina.",
+      "testo": "Nella notte tra giovedì e venerdì la Russia dice di aver intercettato quasi milleduecento droni ucraini, molti diretti verso Mosca. Kiev rivendica un attacco alla raffineria di Volgograd, dove il governatore riferisce quattro lavoratori morti. Un attacco russo su Odessa ha ucciso due donne e ferito sette persone. A Kiev un drone ha provocato un incendio in un ospedale."
     },
     {
       "etichetta": "Terza notizia.",
-      "titolo": "Missili dallo Yemen verso l'Arabia Saudita.",
-      "testo": "Mercoledì e giovedì l'Arabia Saudita ha intercettato missili e droni lanciati dagli Houthi dello Yemen. Secondo Riad, i frammenti di due missili balistici sono caduti nella provincia della Mecca. Gli Houthi negano di aver puntato sulla città santa e dicono di aver mirato a impianti petroliferi e all'aeroporto di Riad. Nello Yemen i combattimenti si intensificano e dall'inizio di agosto oltre trecentoventimila persone sono sfollate."
+      "titolo": "Ucraina, il Cremlino frena sul ruolo dell'Europa nei negoziati.",
+      "testo": "Gli inviati americani hanno annunciato che l'Europa parteciperà al prossimo round di trattative. Venerdì il portavoce del Cremlino Dmitri Peskov non lo ha confermato. Mosca deciderà dopo aver valutato le reali intenzioni degli europei. Intanto si prepara il più grande scambio di prigionieri dall'inizio della guerra, ancora senza una data."
     },
     {
       "etichetta": "Quarta notizia.",
-      "titolo": "Xi Jinping ribadisce l'obiettivo della riunificazione con Taiwan.",
-      "testo": "Giovedì il presidente cinese Xi Jinping ha parlato a Pechino per i centosessanta anni dalla nascita di Sun Yat-sen. Ha detto che la riunificazione con Taiwan avverrà e ha promesso di perseguirla in modo pacifico, senza citare l'uso della forza. Il governo di Taiwan ha respinto il modello cinese di un Paese con due sistemi. Lo stesso giorno Taipei ha segnalato ventinove aerei militari cinesi e alcune navi da guerra attorno all'isola."
+      "titolo": "L'agenzia atomica dell'ONU chiede accesso ai siti nucleari iraniani.",
+      "testo": "Venerdì l'Agenzia internazionale per l'energia atomica ha inviato un nuovo rapporto agli Stati membri. L'agenzia non può verificare le scorte iraniane di uranio altamente arricchito. Non conosce nemmeno la posizione esatta dell'impianto di arricchimento di Isfahan. Teheran risponde che le ispezioni non possono riprendere nelle attuali condizioni di sicurezza. Questa notizia è confermata da una sola fonte primaria."
     },
     {
       "etichetta": "Quinta notizia.",
-      "titolo": "Oltre trecentoventimila sfollati nell'est del Congo.",
-      "testo": "Nella provincia del Sud Kivu, nell'est della Repubblica Democratica del Congo, gli scontri armati si sono intensificati. Secondo le Nazioni Unite, in una settimana oltre trecentoventimila persone sono fuggite dai territori di Kabare e Kalehe. Molte famiglie si sono rifugiate in scuole, chiese e foreste, in piena stagione delle piogge. I combattimenti continuano e si temono nuove fughe."
+      "titolo": "L'ONU proroga le sanzioni sullo Yemen.",
+      "testo": "Giovedì il Consiglio di sicurezza delle Nazioni Unite ha rinnovato all'unanimità le sanzioni sullo Yemen per un anno. Restano il congelamento dei beni e il divieto di viaggio per le persone colpite. Il Consiglio chiede anche la fine degli attacchi degli Houthi contro l'Arabia Saudita. Nelle stesse ore gli Houthi hanno rivendicato nuovi attacchi contro impianti petroliferi sauditi."
     },
     {
       "etichetta": "Sesta notizia.",
-      "titolo": "Londra sanziona i dieci maggiori produttori di petrolio russi.",
-      "testo": "Giovedì il governo britannico ha annunciato un nuovo pacchetto di sanzioni contro la Russia. Con la società Slavneft, il Regno Unito diventa il primo Paese a sanzionare tutti i dieci maggiori produttori di petrolio russi. Le misure colpiscono anche navi della flotta ombra, grandi aziende del carbone e il progetto artico Vostok Oil di Rosneft. L'annuncio è arrivato al vertice della Comunità politica europea, a Dublino."
+      "titolo": "Pakistan, operazioni militari al confine con l'Afghanistan.",
+      "testo": "Venerdì l'esercito pakistano ha annunciato di aver ucciso settantaquattro miliziani in raid lungo il confine afghano. Le operazioni si sono svolte nelle province di Khyber Pakhtunkhwa e del Belucistan. In settimana un agguato nel distretto di Kohat aveva ucciso almeno dieci poliziotti. Islamabad accusa l'Afghanistan di proteggere i gruppi armati, ma Kabul respinge le accuse."
     }
   ],
-  "chiusura": "Per oggi è tutto. Grazie per l'ascolto e buona giornata."
+  "chiusura": "Questo era il brief di oggi su conflitti e geopolitica. Buona giornata."
 }
