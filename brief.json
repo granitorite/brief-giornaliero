@@ -1,36 +1,36 @@
 {
-  "data": "2026-11-14",
-  "apertura": "Buongiorno. Oggi è sabato quattordici novembre duemilaventisei. Ecco i sei sviluppi principali su conflitti e geopolitica.",
+  "data": "2026-11-15",
+  "apertura": "Buongiorno. Oggi è domenica quindici novembre duemilaventisei. Ecco i sei sviluppi principali su conflitti e geopolitica.",
   "notizie": [
     {
       "etichetta": "Prima notizia.",
-      "titolo": "Iran e Stati Uniti, nuovo scontro nel Golfo.",
-      "testo": "Venerdì i Guardiani della rivoluzione iraniani hanno dichiarato di aver distrutto un radar americano in Bahrein. Teheran parla di una risposta a un attacco aereo sulla città costiera di Sirik, vicino allo Stretto di Hormuz. Il Comando centrale degli Stati Uniti smentisce e dice di aver abbattuto due droni senza danni. È la prima azione iraniana rivendicata contro basi americane nel Golfo da settembre."
+      "titolo": "L'Iran rivendica un secondo attacco a una base americana in Bahrein.",
+      "testo": "Domenica i Guardiani della rivoluzione iraniani hanno dichiarato di aver lanciato sei droni contro un radar americano in Bahrein. L'obiettivo indicato è la base per elicotteri di Riffa. È il secondo attacco rivendicato in tre giorni. Il Bahrein ha diramato due allerte alla popolazione, le prime da settembre. Stati Uniti e Bahrein non hanno confermato l'attacco e non hanno segnalato danni."
     },
     {
       "etichetta": "Seconda notizia.",
-      "titolo": "Notte di attacchi incrociati tra Russia e Ucraina.",
-      "testo": "Nella notte tra giovedì e venerdì la Russia dice di aver intercettato quasi milleduecento droni ucraini, molti diretti verso Mosca. Kiev rivendica un attacco alla raffineria di Volgograd, dove il governatore riferisce quattro lavoratori morti. Un attacco russo su Odessa ha ucciso due donne e ferito sette persone. A Kiev un drone ha provocato un incendio in un ospedale."
+      "titolo": "Ucraina, proposta americana sull'Alleanza atlantica in cambio del Donbass.",
+      "testo": "Il presidente ucraino Volodymyr Zelensky ha riferito una nuova domanda posta dagli Stati Uniti. Washington ha chiesto se Kiev lascerebbe le zone del Donbass che ancora controlla in cambio dell'ingresso nell'Alleanza atlantica, la NATO. Zelensky ha ribadito che l'Ucraina non cederà territorio e chiede garanzie di sicurezza precise. Sabato l'inviato americano Jared Kushner ha detto che gli Stati Uniti stanno favorendo contatti diretti tra Russia ed Europa."
     },
     {
       "etichetta": "Terza notizia.",
-      "titolo": "Ucraina, il Cremlino frena sul ruolo dell'Europa nei negoziati.",
-      "testo": "Gli inviati americani hanno annunciato che l'Europa parteciperà al prossimo round di trattative. Venerdì il portavoce del Cremlino Dmitri Peskov non lo ha confermato. Mosca deciderà dopo aver valutato le reali intenzioni degli europei. Intanto si prepara il più grande scambio di prigionieri dall'inizio della guerra, ancora senza una data."
+      "titolo": "Sette morti negli attacchi russi sull'Ucraina, navi colpite vicino alla Romania.",
+      "testo": "Sabato le autorità ucraine hanno contato almeno sette morti e ottanta feriti negli attacchi russi delle ventiquattro ore precedenti. La regione di Zaporizhzhia è la più colpita, con tre morti e sessantadue feriti. Nella regione di Kherson sono morte due persone. Tra venerdì e sabato tre navi commerciali sono state colpite da droni vicino alla costa romena del Mar Nero. Non ci sono vittime e la Romania non ha indicato la provenienza dei droni."
     },
     {
       "etichetta": "Quarta notizia.",
-      "titolo": "L'agenzia atomica dell'ONU chiede accesso ai siti nucleari iraniani.",
-      "testo": "Venerdì l'Agenzia internazionale per l'energia atomica ha inviato un nuovo rapporto agli Stati membri. L'agenzia non può verificare le scorte iraniane di uranio altamente arricchito. Non conosce nemmeno la posizione esatta dell'impianto di arricchimento di Isfahan. Teheran risponde che le ispezioni non possono riprendere nelle attuali condizioni di sicurezza. Questa notizia è confermata da una sola fonte primaria."
+      "titolo": "Missili degli Houthi verso Riad, intercettati dalla coalizione saudita.",
+      "testo": "Domenica la coalizione a guida saudita ha dichiarato di aver distrutto due missili balistici diretti su Riad. Sono stati abbattuti anche tre droni nella regione orientale dell'Arabia Saudita, ricca di petrolio. Sabato la coalizione aveva già intercettato due droni. Gli Houthi sono il gruppo armato yemenita sostenuto dall'Iran."
     },
     {
       "etichetta": "Quinta notizia.",
-      "titolo": "L'ONU proroga le sanzioni sullo Yemen.",
-      "testo": "Giovedì il Consiglio di sicurezza delle Nazioni Unite ha rinnovato all'unanimità le sanzioni sullo Yemen per un anno. Restano il congelamento dei beni e il divieto di viaggio per le persone colpite. Il Consiglio chiede anche la fine degli attacchi degli Houthi contro l'Arabia Saudita. Nelle stesse ore gli Houthi hanno rivendicato nuovi attacchi contro impianti petroliferi sauditi."
+      "titolo": "L'Etiopia accusa Eritrea ed Egitto per una nuova offensiva nel Tigrè.",
+      "testo": "Sabato il capo di stato maggiore etiope Birhanu Jula ha accusato l'Eritrea di aver guidato una nuova offensiva dei ribelli del Tigrè. Secondo il generale, l'Egitto ha fornito armi e supporto logistico. Gli attacchi hanno colpito postazioni militari nelle regioni di Amhara e Afar. L'esercito etiope dice di averli respinti. Le accuse non hanno verifiche indipendenti, e in passato Eritrea ed Egitto avevano respinto accuse simili."
     },
     {
       "etichetta": "Sesta notizia.",
-      "titolo": "Pakistan, operazioni militari al confine con l'Afghanistan.",
-      "testo": "Venerdì l'esercito pakistano ha annunciato di aver ucciso settantaquattro miliziani in raid lungo il confine afghano. Le operazioni si sono svolte nelle province di Khyber Pakhtunkhwa e del Belucistan. In settimana un agguato nel distretto di Kohat aveva ucciso almeno dieci poliziotti. Islamabad accusa l'Afghanistan di proteggere i gruppi armati, ma Kabul respinge le accuse."
+      "titolo": "Gaza, un raid israeliano uccide un comandante di Hamas.",
+      "testo": "Sabato un drone israeliano ha ucciso Samir Abu Younis, comandante della brigata di Rafah di Hamas. Il raid è avvenuto nella zona di Mawasi, a Khan Younis, nel sud della Striscia. Hamas ha confermato la morte. L'esercito israeliano e i servizi di sicurezza interna hanno rivendicato l'operazione. Il cessate il fuoco è in vigore dall'ottobre duemilaventicinque, ma gli attacchi proseguono."
     }
   ],
   "chiusura": "Questo era il brief di oggi su conflitti e geopolitica. Buona giornata."
