@@ -1,36 +1,31 @@
 {
-  "data": "2026-11-26",
-  "apertura": "Buongiorno. Oggi è giovedì ventisei novembre duemilaventisei. Ecco i sei sviluppi principali su conflitti e geopolitica.",
+  "data": "2026-11-27",
+  "apertura": "Buongiorno. Oggi è venerdì ventisette novembre duemilaventisei. Oggi ci sono solo cinque sviluppi rilevanti e verificati su conflitti e geopolitica.",
   "notizie": [
     {
       "etichetta": "Prima notizia.",
-      "titolo": "Yemen e Arabia Saudita, nuovi attacchi incrociati su porti e città.",
-      "testo": "Mercoledì la coalizione a guida saudita ha colpito di nuovo il porto di Hodeida, nello Yemen controllato dagli Houthi. Prima dell'attacco aveva chiesto ai civili di lasciare la zona. Gli Houthi hanno risposto prendendo di mira i porti sauditi di Gedda e Jazan, sul Mar Rosso. Secondo la coalizione, a Jazan i danni sono lievi. Un drone è stato abbattuto vicino al porto di Gedda. Nella notte la difesa aerea saudita ha distrutto due missili balistici diretti a Riad. Gli Houthi rivendicano anche un attacco alla raffineria di Ras Tanura, senza conferme indipendenti. Da Hodeida passa gran parte degli aiuti e delle importazioni dello Yemen."
+      "titolo": "Kuwait, due tecnici italiani uccisi in un attacco con droni.",
+      "testo": "Giovedì due tecnici italiani sono morti in Kuwait dopo un attacco con droni contro un sito che le autorità locali definiscono vitale. Le vittime sono Antonio Saccoccio, sessantacinque anni, di Formia, ed Emanuele Lo Russo, trentasei anni, di Roma. Lavoravano per Rheinmetall Italia alla manutenzione di un sistema di difesa aerea del Kuwait. Secondo il ministero della Difesa kuwaitiano, sono stati colpiti dai detriti di droni intercettati. Il Kuwait attribuisce l'attacco all'Iran. Teheran nega ogni coinvolgimento e si dice disponibile a un'inchiesta congiunta. Il ministro degli Esteri Antonio Tajani ha detto che il drone è di fabbricazione iraniana."
     },
     {
       "etichetta": "Seconda notizia.",
-      "titolo": "Ucraina, colpite una base aerea e due raffinerie in Russia.",
-      "testo": "Mercoledì lo Stato maggiore ucraino ha annunciato un attacco alla base aerea russa di Savasleyka, nella regione di Nizhny Novgorod. Secondo Kiev sono stati danneggiati cinque aerei militari. Tre sono caccia MiG trentuno, usati per lanciare missili ipersonici. Due sono cacciabombardieri Sukhoi trentaquattro. Nella stessa notte sono state colpite due raffinerie nella regione russa di Samara, dove sono scoppiati incendi. Mosca non ha commentato subito. I danni dichiarati da Kiev non hanno verifiche indipendenti."
+      "titolo": "Arabia Saudita e Yemen, un morto in una raffineria e nuovi raid su Sanaa.",
+      "testo": "Giovedì un ordigno arrivato dal cielo ha colpito la raffineria di Jazan, nel sud-ovest dell'Arabia Saudita. Un lavoratore nepalese è morto e diversi altri sono rimasti feriti. Nell'impianto è scoppiato un incendio e parte delle attività è stata sospesa. La coalizione a guida saudita attribuisce l'attacco agli Houthi, che non hanno commentato subito. La coalizione afferma di aver distrutto cinquanta obiettivi militari nelle province yemenite di Sanaa, Hodeida e Saada. Secondo le Nazioni Unite, da agosto oltre trecentosessantamila persone hanno lasciato le proprie case nello Yemen."
     },
     {
       "etichetta": "Terza notizia.",
-      "titolo": "Corea del Nord, Kim chiede un uso più ampio delle armi nucleari tattiche.",
-      "testo": "Il leader nordcoreano Kim Jong Un ha visitato impianti per la produzione di materiale nucleare e un istituto di ricerca sulle armi. Lo ha riferito giovedì l'agenzia di Stato nordcoreana, senza indicare dove si trovano gli impianti. Kim ha chiesto di impiegare armi nucleari tattiche in più ambiti e per missioni diverse. Ha detto che la capacità di produrre materiale nucleare è in aumento. Ha aggiunto che negare lo status nucleare del Paese equivarrebbe a una dichiarazione di guerra. Il ministero della Difesa della Corea del Sud ha espresso preoccupazione."
+      "titolo": "Ucraina, Zelensky avverte di un nuovo attacco russo alla rete elettrica.",
+      "testo": "Giovedì il presidente ucraino Volodymyr Zelensky ha detto che la Russia sta completando i preparativi per un nuovo attacco di massa. Secondo l'intelligence ucraina, gli obiettivi sono le infrastrutture energetiche, la logistica e i servizi essenziali. La situazione più difficile riguarda le città di Dnipro e Pavlohrad, dove le riparazioni alla rete proseguono. Nella tarda serata di mercoledì missili balistici russi avevano colpito un centro commerciale e altri edifici a Kiev. I feriti sono almeno sette, secondo l'amministrazione militare della città. L'Ucraina chiede agli alleati altri sistemi di difesa aerea."
     },
     {
       "etichetta": "Quarta notizia.",
-      "titolo": "Sudan, diciannove civili uccisi da droni nel Nilo Azzurro.",
-      "testo": "Nella tarda serata di martedì attacchi con droni hanno colpito Damazin, capoluogo dello Stato sudanese del Nilo Azzurro. Secondo organizzazioni sudanesi per i diritti umani, i civili uccisi sono almeno diciannove. I feriti sono almeno venti. Sono stati presi di mira anche impianti elettrici e la diga di Roseires. Gli attacchi sono attribuiti alle Forze di supporto rapido, il gruppo paramilitare in guerra con l'esercito. Il gruppo non ha commentato. Mercoledì le Nazioni Unite hanno condannato gli attacchi. Il loro conteggio è di diciassette civili morti a Damazin."
+      "titolo": "Gaza, un raid israeliano uccide un dirigente di Hamas.",
+      "testo": "Nella notte tra mercoledì e giovedì attacchi israeliani hanno ucciso almeno otto palestinesi nella Striscia di Gaza, secondo fonti ospedaliere. A Deir al-Balah un raid su un appartamento ha ucciso Khaled Abu Nada e sua moglie. Secondo l'esercito israeliano, Abu Nada gestiva le banche e gli investimenti di Hamas. Fonti palestinesi lo indicano come sottosegretario del ministero dell'Istruzione di Gaza. Il primo ministro israeliano Benjamin Netanyahu ha parlato di una serie di uccisioni mirate contro membri e dirigenti di Hamas. Gli attacchi proseguono nonostante il cessate il fuoco in vigore da circa un anno."
     },
     {
       "etichetta": "Quinta notizia.",
-      "titolo": "Iraq, la Corte suprema dà ragione a Baghdad su confini e petrolio curdi.",
-      "testo": "Mercoledì la Corte suprema federale irachena ha stabilito che la difesa dei confini internazionali spetta al governo centrale. La decisione vale anche per i confini della regione autonoma del Kurdistan. La Corte ha confermato inoltre la supervisione federale sui valichi di frontiera e sui giacimenti di petrolio e gas. Martedì il primo ministro Ali al-Zaidi aveva ordinato di prendere il controllo dei valichi curdi. L'ordine segue un'indagine sul contrabbando di petrolio. Il governo regionale curdo respinge le misure e chiede di risolvere la disputa per via costituzionale."
-    },
-    {
-      "etichetta": "Sesta notizia.",
-      "titolo": "Siria, attacco suicida dello Stato Islamico a Hasakah.",
-      "testo": "Mercoledì quattro uomini armati hanno attaccato una postazione delle forze di sicurezza interna a Hasakah, nel nord-est della Siria. Due agenti sono morti e cinque sono rimasti feriti. Uno degli assalitori si è fatto esplodere all'ingresso con una motocicletta carica di esplosivo. Tutti e quattro gli assalitori sono morti. Il gruppo Stato Islamico ha rivendicato l'attacco. Le autorità hanno aperto un'indagine."
+      "titolo": "Stati Uniti e Alleanza atlantica chiedono alla Russia di non allargare la guerra.",
+      "testo": "Mercoledì il presidente degli Stati Uniti Donald Trump ha incontrato in Florida Mark Rutte, segretario generale della NATO, l'Organizzazione del Trattato dell'Atlantico del Nord. In una dichiarazione congiunta hanno chiesto alla Russia di evitare azioni che allarghino la guerra in Ucraina, anche in modo involontario. Hanno sollecitato una soluzione pacifica nel più breve tempo possibile. Hanno discusso anche della guerra con l'Iran e dell'aumento delle spese per la difesa. La settimana scorsa Trump aveva incontrato in Cina il presidente russo Vladimir Putin, senza arrivare a un cessate il fuoco."
     }
   ],
   "chiusura": "Questo era il brief di oggi su conflitti e geopolitica. Buona giornata."
