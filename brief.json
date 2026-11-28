@@ -1,31 +1,36 @@
 {
-  "data": "2026-11-27",
-  "apertura": "Buongiorno. Oggi è venerdì ventisette novembre duemilaventisei. Oggi ci sono solo cinque sviluppi rilevanti e verificati su conflitti e geopolitica.",
+  "data": "2026-11-28",
+  "apertura": "Buongiorno. Oggi è sabato ventotto novembre duemilaventisei. Ecco le sei notizie più rilevanti su conflitti e geopolitica.",
   "notizie": [
     {
       "etichetta": "Prima notizia.",
-      "titolo": "Kuwait, due tecnici italiani uccisi in un attacco con droni.",
-      "testo": "Giovedì due tecnici italiani sono morti in Kuwait dopo un attacco con droni contro un sito che le autorità locali definiscono vitale. Le vittime sono Antonio Saccoccio, sessantacinque anni, di Formia, ed Emanuele Lo Russo, trentasei anni, di Roma. Lavoravano per Rheinmetall Italia alla manutenzione di un sistema di difesa aerea del Kuwait. Secondo il ministero della Difesa kuwaitiano, sono stati colpiti dai detriti di droni intercettati. Il Kuwait attribuisce l'attacco all'Iran. Teheran nega ogni coinvolgimento e si dice disponibile a un'inchiesta congiunta. Il ministro degli Esteri Antonio Tajani ha detto che il drone è di fabbricazione iraniana."
+      "titolo": "Arabia Saudita e Yemen, undici morti segnalati a Taiz e un missile verso Riad.",
+      "testo": "Venerdì i media legati agli Houthi hanno riferito di un raid aereo saudita su al-Turbah, a sud della città yemenita di Taiz. Secondo queste fonti, è stato colpito un edificio residenziale e i morti sono undici, in gran parte bambini. Il bilancio non è stato verificato in modo indipendente. Il raid su Taiz è confermato da una sola fonte primaria. La coalizione a guida saudita non ha commentato. Nelle ore successive la coalizione ha annunciato di aver intercettato un missile da crociera lanciato dagli Houthi verso la regione di Riad. Venerdì aveva dichiarato di aver abbattuto due droni. Secondo l'Organizzazione mondiale della sanità, da agosto le persone uccise o ferite nello Yemen sono oltre tredicimila."
     },
     {
       "etichetta": "Seconda notizia.",
-      "titolo": "Arabia Saudita e Yemen, un morto in una raffineria e nuovi raid su Sanaa.",
-      "testo": "Giovedì un ordigno arrivato dal cielo ha colpito la raffineria di Jazan, nel sud-ovest dell'Arabia Saudita. Un lavoratore nepalese è morto e diversi altri sono rimasti feriti. Nell'impianto è scoppiato un incendio e parte delle attività è stata sospesa. La coalizione a guida saudita attribuisce l'attacco agli Houthi, che non hanno commentato subito. La coalizione afferma di aver distrutto cinquanta obiettivi militari nelle province yemenite di Sanaa, Hodeida e Saada. Secondo le Nazioni Unite, da agosto oltre trecentosessantamila persone hanno lasciato le proprie case nello Yemen."
+      "titolo": "Ucraina, centocinquantacinque droni russi e blackout in sei regioni.",
+      "testo": "Nella notte tra giovedì e venerdì la Russia ha lanciato centocinquantacinque droni contro l'Ucraina, secondo l'aeronautica di Kiev. La difesa aerea ne ha abbattuti o neutralizzati centodieci. Gli attacchi hanno colpito sottostazioni e reti di distribuzione. Sei regioni sono rimaste in parte senza elettricità, con le situazioni più difficili a Dnipropetrovsk e Kherson. Secondo le autorità locali, in ventiquattro ore sono morte almeno sei persone e venticinque sono rimaste ferite. Tra le vittime c'è una donna di ottantasei anni a Izium. Droni ucraini hanno colpito un impianto di gomma sintetica nella regione russa di Tula."
     },
     {
       "etichetta": "Terza notizia.",
-      "titolo": "Ucraina, Zelensky avverte di un nuovo attacco russo alla rete elettrica.",
-      "testo": "Giovedì il presidente ucraino Volodymyr Zelensky ha detto che la Russia sta completando i preparativi per un nuovo attacco di massa. Secondo l'intelligence ucraina, gli obiettivi sono le infrastrutture energetiche, la logistica e i servizi essenziali. La situazione più difficile riguarda le città di Dnipro e Pavlohrad, dove le riparazioni alla rete proseguono. Nella tarda serata di mercoledì missili balistici russi avevano colpito un centro commerciale e altri edifici a Kiev. I feriti sono almeno sette, secondo l'amministrazione militare della città. L'Ucraina chiede agli alleati altri sistemi di difesa aerea."
+      "titolo": "Unione europea, vertice senza accordo su bilancio e prestito all'Ucraina.",
+      "testo": "Nella notte tra giovedì e venerdì il vertice straordinario dei leader dell'Unione europea a Bruxelles si è chiuso senza intesa. Le trattative sono durate circa quindici ore. Non c'è accordo sul bilancio per gli anni dal duemilaventotto al duemilatrentaquattro. Resta bloccato anche un prestito da quarantacinque miliardi di euro per l'Ucraina nel duemilaventisette. Ungheria, Slovacchia e Repubblica Ceca sono contrarie. La Bulgaria accetta solo la parte non militare. I leader torneranno a riunirsi il diciassette e il diciotto dicembre."
     },
     {
       "etichetta": "Quarta notizia.",
-      "titolo": "Gaza, un raid israeliano uccide un dirigente di Hamas.",
-      "testo": "Nella notte tra mercoledì e giovedì attacchi israeliani hanno ucciso almeno otto palestinesi nella Striscia di Gaza, secondo fonti ospedaliere. A Deir al-Balah un raid su un appartamento ha ucciso Khaled Abu Nada e sua moglie. Secondo l'esercito israeliano, Abu Nada gestiva le banche e gli investimenti di Hamas. Fonti palestinesi lo indicano come sottosegretario del ministero dell'Istruzione di Gaza. Il primo ministro israeliano Benjamin Netanyahu ha parlato di una serie di uccisioni mirate contro membri e dirigenti di Hamas. Gli attacchi proseguono nonostante il cessate il fuoco in vigore da circa un anno."
+      "titolo": "Niger, tredici militari uccisi in un attacco vicino al Mali.",
+      "testo": "Giovedì all'alba uomini armati hanno attaccato una postazione della Guardia nazionale a Sanam, nell'ovest del Niger. Tredici militari sono morti e venti sono rimasti feriti, secondo il bilancio provvisorio del ministero della Difesa. Il ministero parla di un attacco terroristico e afferma che diversi assalitori sono stati uccisi. La zona si trova nella regione di Tillabéri, vicino al confine con il Mali. Due giorni prima undici soldati erano morti nel sud-est del paese, in un attacco attribuito a Boko Haram."
     },
     {
       "etichetta": "Quinta notizia.",
-      "titolo": "Stati Uniti e Alleanza atlantica chiedono alla Russia di non allargare la guerra.",
-      "testo": "Mercoledì il presidente degli Stati Uniti Donald Trump ha incontrato in Florida Mark Rutte, segretario generale della NATO, l'Organizzazione del Trattato dell'Atlantico del Nord. In una dichiarazione congiunta hanno chiesto alla Russia di evitare azioni che allarghino la guerra in Ucraina, anche in modo involontario. Hanno sollecitato una soluzione pacifica nel più breve tempo possibile. Hanno discusso anche della guerra con l'Iran e dell'aumento delle spese per la difesa. La settimana scorsa Trump aveva incontrato in Cina il presidente russo Vladimir Putin, senza arrivare a un cessate il fuoco."
+      "titolo": "Taiwan al voto locale mentre la Cina invia aerei militari.",
+      "testo": "Oggi Taiwan vota per le elezioni locali in ventidue città e contee. Sono in palio circa undicimila incarichi, tra cui quello di sindaco di Taipei. I risultati sono attesi in serata. Il ministero della Difesa di Taiwan ha segnalato trentatré voli di aerei militari cinesi tra venerdì e sabato. Venerdì ne aveva contati trenta, ventisei dei quali oltre la linea mediana dello Stretto. Il voto è considerato una prova per il partito di governo."
+    },
+    {
+      "etichetta": "Sesta notizia.",
+      "titolo": "Kuwait, la Procura di Roma indaga sulla morte dei due tecnici italiani.",
+      "testo": "Venerdì la Procura di Roma ha aperto un'inchiesta per omicidio sulla morte dei due tecnici italiani uccisi giovedì in Kuwait. Il Kuwait ha convocato l'ambasciatore iraniano e gli ha consegnato una nota di protesta. L'Iran continua a negare ogni responsabilità. Il segretario generale delle Nazioni Unite António Guterres ha condannato l'attacco e ha chiesto moderazione. Il rientro delle salme in Italia è previsto all'inizio della prossima settimana."
     }
   ],
   "chiusura": "Questo era il brief di oggi su conflitti e geopolitica. Buona giornata."
